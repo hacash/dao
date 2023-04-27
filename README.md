@@ -1,2 +1,2 @@
-# dao
+# DAO
 HacashDAO.org
