@@ -1,0 +1,44 @@
+/* header.less */
+
+
+@colyellow: #d1a87c;
+
+.container {
+    display: block;
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding: 0;
+}
+
+
+#header {
+    background-color: #fff;
+    .con {
+        height: 64px;
+        line-height: 64px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .logo {
+        img {
+            height: 64px;
+        }
+    }
+    .link {
+        display: flex;
+        a {
+            display: block;
+            padding: 0 5px;
+        }
+        .ic {
+            font-size: 26px;
+            color: #000;
+        }
+        a:hover {
+            .ic {
+                color: @colyellow;
+            }
+        }
+    }
+}
