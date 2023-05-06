@@ -108,5 +108,43 @@ button.red {
 #header .link a:hover .ic {
   color: #d1a87c;
 }
-/* index.less */
+#screen {
+  position: relative;
+  overflow: hidden;
+}
+#screen .bgcv {
+  transition: all 40s linear;
+  transform: scale(1);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: url(/cssimg/index/quadgb.jpg) no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+}
+#screen .bgcv.big {
+  transform: scale(1.4);
+}
+#screen .container {
+  position: relative;
+}
+#screen .con {
+  min-height: 100px;
+  margin: 130px 0;
+  max-width: 44%;
+}
+#screen .ttl * {
+  color: #fff;
+  font-size: 26px;
+  line-height: 30px;
+}
+#screen .ttl h1 {
+  font-size: 88px;
+  line-height: 100px;
+}
+#screen .btns {
+  margin-top: 50px;
+}
 /* footer.less */

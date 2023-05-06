@@ -222,4 +222,17 @@ function apipost(url, data, okcall, errcall) {
 ////////////////////////////////////
 
 
-/* header.js *//* index.js *//* footer.js */
+/* header.js */
+
+var $screen = $id('screen')
+, $bgcv = $class($screen, 'bgcv')[0]
+;
+
+$bgcv.classList.toggle('big')
+setInterval(function(){
+    $bgcv.classList.toggle('big')
+},40000)
+
+
+
+/* footer.js */
