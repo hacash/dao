@@ -1,4 +1,9 @@
 
+html, body {
+    background-color: #000;
+}
+
+
 #screen {
     position: relative;
     overflow: hidden;
@@ -22,23 +27,44 @@
     }
     .con {
         min-height: 100px;
-        margin: 130px 0;
+        margin: 130px 0 130px;
         max-width: 44%;
     }
 
     .ttl {
         * {
             color: #fff;
-            font-size: 26px;
-            line-height: 30px;
+            font-size: 20px;
+            line-height: 24px;
         }
         h1 {
-            font-size: 88px;
-            line-height: 100px;
+            font-size: 90px;
+            line-height: 90px;
+            margin-bottom: 50px;
+            font-weight: 800;
+            word-spacing: 5px;
+            letter-spacing: 2px;
+            color: #ffffffbb;
+            span {
+                font-size: inherit;
+                font-weight: inherit;
+                font-family: inherit;
+                color: @colyellow;
+            }
         }
     }
     .btns {
         margin-top: 50px;
+        button {
+            background-color: @colyellow;
+            font-size: 18px;
+            margin-left: 20px;
+            border-radius: 5px;
+            box-shadow: 1px 1px 4px #000000;
+        }
+        button.f {
+            margin-left: 0;
+        }
     }
 
 

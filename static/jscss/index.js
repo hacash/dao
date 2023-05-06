@@ -227,11 +227,11 @@ function apipost(url, data, okcall, errcall) {
 var $screen = $id('screen')
 , $bgcv = $class($screen, 'bgcv')[0]
 ;
-
-$bgcv.classList.toggle('big')
-setInterval(function(){
+var scrmvr = function(){
     $bgcv.classList.toggle('big')
-},40000)
+}
+setTimeout(scrmvr,100)
+setInterval(scrmvr,40000)
 
 
 
