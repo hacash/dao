@@ -3,10 +3,20 @@ html, body {
     background-color: #000;
 }
 
+#header {
+    // display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+    background: linear-gradient(to right, #fff, #fff, #ffffff66);
+}
 
 #screen {
     position: relative;
     overflow: hidden;
+    padding-top: 50px;
     .bgcv {
         transition: all 40s linear;
         transform: scale(1);
@@ -79,7 +89,8 @@ html, body {
         text-align: center;
         padding: 80px 0;
         h1 {
-            font-size: 60px;
+            font-size: 46px;
+            color: #ffffffaa;
         }
     }
 }
@@ -118,10 +129,10 @@ html, body {
         justify-content: space-between;
         align-items: center;
         .tt {
-            font-size: 26px;
+            font-size: 32px;
         }
         .per {
-            font-size: 16px;
+            font-size: 20px;
         }
     }
     .list {
@@ -132,6 +143,8 @@ html, body {
         margin-top: 14px;
         h5 {
             font-weight: normal;
+            font-size: 18px;
+            line-height: 24px;
         }
     }
     .item.active {
@@ -143,7 +156,7 @@ html, body {
     .item::after {
         content: "";
         position: absolute;
-        top: 4px;
+        top: 6px;
         left :-25px;
         font-size: 12px;
         line-height: 12px;
@@ -164,10 +177,14 @@ html, body {
         }
     }
     .item.active {
+        h5 {
+            font-size: 24px;
+        }
         &::after {
             border-color: green;
             background-color: green;
-            box-shadow: 0 0 16px 2px #ffffff99 ;
+            box-shadow: 0 0 16px 2px #ffffff99;
+            transform: scale(1.25);
         }
     }
     .act {
@@ -177,7 +194,7 @@ html, body {
         .intro {
             color: darkseagreen;
             padding: 0 0 10px 0;
-            font-size: 13px;
+            font-size: 18px;
         }
         .progress {
             display: block;
@@ -208,4 +225,220 @@ html, body {
             }
         }
     }
+}
+
+
+#layer {
+    .wrap {
+        display: flex;
+        justify-content: space-between;
+    }
+    .card {
+    }
+    .con {
+        padding: 30px;
+        background-color: #ffffff11;
+        h4 {
+            font-size: 28px;
+            padding-bottom: 20px;
+        }
+    }
+    .desc {
+        padding: 20px 0;
+        li {
+            position: relative;
+            font-size: 20px;
+            font-weight: normal;
+            color: #bbb;
+            i {
+                display: inline-block;
+                margin-right: 16px;
+                font-size: inherit;
+                font-style: normal;
+                font-weight: bold;
+                position: relative;
+                color: inherit;
+                top: 2px;
+            }
+        }
+    }
+    button {
+        border: @colyellow+#444 solid 1px;
+        color: @colyellow+#444;
+        background: none;
+        border-radius: 5px;
+        display: block;
+        width: 100%;
+        &:hover {
+            background-color: #ffffff22;
+        }
+    }
+}
+
+
+#wp {
+    padding: 130px 0;
+    * {
+        color: whitesmoke;
+    }
+    .hdwrap {
+        display: flex;
+        justify-content: space-between;
+    }
+    .btn {
+        padding-left: 40px;
+        .ht {
+            font-size: 70px;
+        }
+        p {
+            padding: 27px 0;
+            font-size: 24px;
+        }
+        button {
+            display: block;
+            width: 95%;
+            background-color: @colyellow + #444;
+            color: #000;
+            font-size: 22px;
+            border-radius: 6px;
+            &:hover {
+                background-color: @colyellow;
+            }
+        }
+    }
+    .cvp {
+    }
+    .cvp:hover {
+    }
+    .info {
+        p {
+            margin-top: 30px;
+            font-size: 20px;
+            color: #ffffff99;
+        }
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+
+
+    #screen {
+        padding-top: 150px;
+        text-align: center;
+        .bgcv {
+            display: none;
+        }
+        .con {
+            max-width: none;
+            margin: 0;
+        }
+        .ttl {
+            h1 {
+                font-size: 55px;
+                line-height: 55px;
+            }
+            .desc {
+                padding: 0 40px;
+            }
+        }
+
+    }
+
+
+
+    .psec {
+        .pttl {
+            padding: 60px 0;
+            h1 {
+                font-size: 32px;
+            }
+        }
+    }
+
+    #road {
+        .cdwrap {
+            display: block;
+            margin: 0;
+            padding: 0;
+            .card {
+                width: auto;
+                .box {
+                    margin: 0 10px 30px 10px;
+                    border-radius: 6px;
+                    padding: 20px;
+                }
+                .con {
+                    
+                }
+            }
+        }
+        .hd {
+            .tt, .per {
+                font-size: 20px;
+            }
+        }
+        .item {
+            h5 {
+                font-size: 18px !important;
+            }
+        }
+        .act {
+            .intro {
+                font-size: 16px !important;
+            }
+        }
+    }
+
+
+    #layer {
+        .wrap {
+            display: block;
+            text-align: center;
+        }
+        .desc {
+            ul {
+                display: inline-block;
+                text-align: left;
+            }
+        }
+    }
+
+    #wp {
+        padding: 40px 0;
+        .hdwrap {
+            display: block;
+        }
+        .cvp {
+            img {
+                width: 100%;
+            }
+        }
+        .btn {
+            padding: 20px;
+            .ht {
+                font-size: 36px;
+            }
+            p {
+                padding: 10px 0;
+                font-size: 20px;
+                line-height: 30px;
+            }
+        }
+        .info {
+            padding: 0 20px;
+            p {
+                font-size: 18px;
+            }
+        }
+    }
+
+
+
+
 }
