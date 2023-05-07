@@ -2,6 +2,7 @@ app/component/*/*.css
 app/component/*/*/*.css
 *.use.js
 
+static/jscss/*
 
 # Logs
 logs

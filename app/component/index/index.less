@@ -69,3 +69,143 @@ html, body {
 
 
 }
+
+
+.psec {
+    * {
+        color: whitesmoke;
+    }
+    .pttl {
+        text-align: center;
+        padding: 80px 0;
+        h1 {
+            font-size: 60px;
+        }
+    }
+}
+
+
+#road {
+    .cdwrap {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 60px;
+    }
+    .card {
+        width: 46%;
+        .box {
+            border: 2px solid #ffffff99;
+            padding: 30px;
+            border-radius: 0px 30px;
+            box-shadow: 0 0 40px #ffffff55, 0 0 4px 2px #000 inset;
+            background-color: #ffffff1f;
+            &.red {
+                background-color: #270303;
+            }
+            &.gold {
+                background-color: #302904;
+            }
+            &.green {
+                background-color: #032719;
+            }
+        }
+        .con {
+
+        }
+    }
+    .hd {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .tt {
+            font-size: 26px;
+        }
+        .per {
+            font-size: 16px;
+        }
+    }
+    .list {
+        margin: 20px 0 0 20px;
+    }
+    .item {
+        position: relative;
+        margin-top: 14px;
+        h5 {
+            font-weight: normal;
+        }
+    }
+    .item.active {
+        h5 {
+            font-weight: bold;
+            color: green;
+        }
+    }
+    .item::after {
+        content: "";
+        position: absolute;
+        top: 4px;
+        left :-25px;
+        font-size: 12px;
+        line-height: 12px;
+        width: 11px;
+        height: 11px;
+        border-radius: 100px;
+        border: 1px solid #666;
+    }
+    .item.down {
+        h5 {
+            text-decoration: line-through;
+            color: #46755e9f;
+        }
+        &::after {
+            content: "✓";
+            border: none;
+            color: green;
+        }
+    }
+    .item.active {
+        &::after {
+            border-color: green;
+            background-color: green;
+            box-shadow: 0 0 16px 2px #ffffff99 ;
+        }
+    }
+    .act {
+        // background-color: #000;
+        padding: 10px 0;
+        margin-bottom: 20px;
+        .intro {
+            color: darkseagreen;
+            padding: 0 0 10px 0;
+            font-size: 13px;
+        }
+        .progress {
+            display: block;
+            position: relative;
+            background-color: #000;
+            border: 1px solid #00990066;
+            border-radius: 100px;
+            width: 100%;
+            height: 8px;
+            b {
+                display: block;
+                position: relative;
+                margin: 0;
+                height: 8px;
+                border-radius: 100px;
+                width: 1%;
+                background: linear-gradient(to bottom, #fff, #4db3a2);
+                box-shadow: 0 0 6px 1px green ;
+            }
+            u, i {
+                display: block;
+                position: absolute;
+                top: 10px;
+                right: 0px;
+                font-size: 12px;
+                line-height: 12px;
+                height: 12px;
+            }
+        }
+    }
+}

@@ -30,7 +30,11 @@ function $id(id){
 }
 
 function $class(elm, name){
-    return elm.getElementsByClassName(name)
+    if(!name){
+        name = elm
+        elm = document
+    }
+    return document.getElementsByClassName(name)
 }
 
 function getUrlQuery(variable){
