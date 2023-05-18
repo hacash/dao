@@ -3,6 +3,7 @@ app/component/*/*/*.css
 *.use.js
 
 static/jscss/*
+static/*.zip
 
 # Logs
 logs
