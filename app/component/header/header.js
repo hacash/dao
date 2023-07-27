@@ -10,3 +10,16 @@ $ufnvbx.onclick = function(){
     ufnvbx_open = !ufnvbx_open
 
 }
+
+/////////////////
+
+var $bdwp = $id('bdwp')
+, $sdbtn = $id('sdbtn')
+, sdisopen = false
+;
+function ToggleSideBar() {
+    var tgf = sdisopen ? 'remove' : 'add'
+    $bdwp.classList[tgf]('open')
+    sdisopen = !sdisopen
+}
+$sdbtn.onclick = ToggleSideBar

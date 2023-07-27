@@ -19,5 +19,8 @@ setTimeout(function(){
     for(var i=0;i<$progress.length;i++){
         showProgress($progress[i].getElementsByTagName('b')[0])
     }
+    // ToggleSideBar()
 },100)
+
+
 
