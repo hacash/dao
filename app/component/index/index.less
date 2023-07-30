@@ -3,6 +3,7 @@ html, body {
     background-color: #000;
 }
 
+
 #header {
     // display: none;
     position: fixed;
@@ -48,19 +49,31 @@ html, body {
             line-height: 24px;
         }
         h1 {
-            font-size: 95px;
-            line-height: 95px;
+            font-size: 78px;
+            line-height: 100px;
             margin-bottom: 20px;
             font-weight: 800;
             word-spacing: 5px;
             letter-spacing: 2px;
             color: #ffffffbb;
+            img {
+                vertical-align: top;
+                display: inline-block;
+                height: 80px;
+                margin: 5px 10px 0px 0;
+                position: relative;
+                left: -10px;
+                opacity: 0.75;
+            }
             span {
+                vertical-align: top;
+                display: inline-block;
                 font-size: inherit;
+                line-height: inherit;
                 font-weight: inherit;
                 font-family: inherit;
                 color: #300e0f;
-                text-shadow: 0 0 44px @colyellow, 0 0 4px #fff;
+                text-shadow: 0 0 34px @colyellow, 0 0 6px #fff;
             }
         }
     }
@@ -71,21 +84,25 @@ html, body {
             display: flex;
             .col {
                 flex: 1;
-                padding: 14px;
                 border: 0px solid #300e0f;
                 background-image: linear-gradient(to right bottom, #ffffff00, #ffffff11);
 
             }
             a {
+                padding: 14px;
                 display: block;
-                transition: all 0.5s;
+                // transition: all 0.5s;
                 transform: scale(1);
-                color: #ffffff66;
-                font-size: 18px;
+                color: #ffffff99;
+                font-size: 16px;
                 font-weight: bold;
+                &::before {
+                    content: "➧ ";
+                }
             }
             .col:hover {
-                cursor: pointer;                background-image: linear-gradient(to right bottom, #ffffff00, #ffffff22, #ffffff00);
+                cursor: pointer;                
+                background-image: linear-gradient(to right bottom, #ffffff00, #ffffff22, #ffffff00);
                 a {
                     color: @colyellow;
                     transform: scale(1.05);
@@ -162,6 +179,7 @@ html, body {
             font-weight: normal;
             font-size: 18px;
             line-height: 24px;
+            word-break: break-all;
         }
     }
     .item.active {
@@ -354,6 +372,16 @@ html, body {
 
 @media screen and (max-width: 640px) {
 
+
+    #side {
+        .cont {
+            margin-top: 65px;
+        }
+    }
+
+    #header {
+        background: #fff !important;
+    }
 
     #screen {
         padding-top: 150px;

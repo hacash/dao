@@ -14,12 +14,27 @@ $ufnvbx.onclick = function(){
 /////////////////
 
 var $bdwp = $id('bdwp')
+, $side = $id('side')
 , $sdbtn = $id('sdbtn')
 , sdisopen = false
 ;
-function ToggleSideBar() {
+function ToggleSideBar(e) {
     var tgf = sdisopen ? 'remove' : 'add'
     $bdwp.classList[tgf]('open')
     sdisopen = !sdisopen
+    e.stopPropagation()
 }
 $sdbtn.onclick = ToggleSideBar
+$side.onscroll = function(e){
+    e.stopPropagation()
+}
+
+
+var bdw = document.body.clientWidth
+if(bdw < 640){
+    document.body.onclick = function(){
+        if(sdisopen==true){
+            ToggleSideBar() // close
+        }
+    }
+}
