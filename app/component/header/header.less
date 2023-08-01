@@ -1,7 +1,6 @@
 /* header.less */
 
 
-@colyellow: #d1a87c;
 
 .container {
     display: block;
@@ -30,7 +29,7 @@
     }
     &::-webkit-scrollbar-thumb {
         border-radius: 6px;
-        background-color: #d55959;
+        background-color: @colyellow;
     }
     &::-webkit-scrollbar-track {
         background-color: #eee;
@@ -63,11 +62,11 @@
             cursor: pointer;
         }
         a:hover {
-            background-image: linear-gradient(to right, #ecddd6, #fff);
+            background-image: linear-gradient(to right, @colyellow , #fff);
             color: #000;
         }
         a:active {
-            background-image: linear-gradient(to right, #be9d8e, #ecddd6);
+            background: @colyellow - #222;
         }
         .y {
             text-align: left;
