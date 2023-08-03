@@ -23,7 +23,7 @@ setTimeout(function(){
 
 var bdw = document.body.clientWidth
 if(bdw > 640){
-    setTimeout(ToggleSideBar, 9000);
+    setTimeout(ToggleSideBar, 500);
 }
 
 

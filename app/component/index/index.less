@@ -14,6 +14,12 @@ html, body {
     background: linear-gradient(to right, #fff, #fff, #ffffff00);
 }
 
+#side {
+    .cont {
+        margin-top: 65px;
+    }
+}
+
 #screen {
     position: relative;
     overflow: hidden;
@@ -79,6 +85,8 @@ html, body {
         }
     }
     .btns {
+        position: relative;
+        left: -10px;
         margin-top: 50px;
         border: 0px solid #300e0f;
         .row {
@@ -86,11 +94,14 @@ html, body {
             .col {
                 flex: 1;
                 border: 0px solid #300e0f;
-                background-image: linear-gradient(to right bottom, #ffffff00, #ffffff33);
+                background-image: linear-gradient(to right bottom, #ffffff00, #f7af3444, #ffffff00);
+                border: 1px solid #f7af3466;
+                margin: 10px;
+                border-radius: 100px;
 
             }
             a {
-                padding: 14px;
+                padding: 10px 14px;
                 display: block;
                 // transition: all 0.5s;
                 transform: scale(1);
@@ -102,11 +113,10 @@ html, body {
                 }
             }
             .col:hover {
-                cursor: pointer;                
-                background-image: linear-gradient(to right bottom, #ffffff00, #f7af3444, #ffffff00);
+                cursor: pointer;         
+                background-color: @colyellow;       
                 a {
-                    color: @colyellow;
-                    transform: scale(1.05);
+                    color: #fff;
                 }
             }
         }
@@ -134,19 +144,18 @@ html, body {
 
 #road {
     .cdwrap {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 40px;
+        // display: flex;
+        // justify-content: space-between;
+        // margin-bottom: 40px;
     }
     .card {
-        width: 48%;
         * {
             text-shadow: 1px 1px 1px #00000044
         }
         .box {
             border: 2px solid #ffffff66;
             padding: 20px;
-            border-radius: 0px 10px;
+            border-radius: 4px;
             // box-shadow: 0 0 40px #ffffff55;
             background-color: #f7af3400;
             &.red {
@@ -186,6 +195,7 @@ html, body {
             font-size: 18px;
             line-height: 24px;
             word-break: break-all;
+            color: @colyellow;
         }
     }
     .item.active {
@@ -208,13 +218,14 @@ html, body {
     }
     .item.down {
         h5 {
-            text-decoration: line-through;
-            color: #46755e9f;
+            // text-decoration: line-through;
+            color: whitesmoke;
         }
         &::after {
             content: "✓";
             border: none;
-            color: green;
+            font-size: 22px;
+            color: whitesmoke;
         }
     }
     .item.active {
@@ -355,8 +366,10 @@ html, body {
         }
     }
     .cvp {
+        background-color: #fff;
+        padding: 0 150px;
         img {
-            width: 440px;
+                height: 128px;
         }
     }
     .cvp:hover {
