@@ -5,8 +5,8 @@ module.exports = {
     '/layers': 'VIEW:layers',
 
     '/learn': 'VIEW:m_learn',
+    '/3coins': 'VIEW:m_3coins',
     '/start': 'VIEW:m_start',
-    '/trade': 'VIEW:m_trade',
     '/community': 'VIEW:m_community',
     '/resource': 'VIEW:m_resource',
 

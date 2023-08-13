@@ -4,7 +4,7 @@ exports.components = [
     'header',
 
     'manual',
-    'manual/trade',
+    'manual/3coins',
 
     'footer',
     'tail',
@@ -14,7 +14,7 @@ exports.components = [
 exports.datas = async function(cnf, ctx)
 {   
     return {
-        title: "Trade Hacash - Hacash DAO"
+        title: "3 PoW Coins on Hacash - Hacash DAO"
     }
 }
 

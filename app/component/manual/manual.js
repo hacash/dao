@@ -1,5 +1,4 @@
 
-
 var bdw = document.body.clientWidth
 if(bdw > 640){
     setTimeout(ToggleSideBar, 100);
@@ -9,6 +8,17 @@ if(bdw > 640){
 var $mpage = document.getElementsByClassName('mpage')[0]
   , $ctnr = $mpage.getElementsByClassName('container')[0]
   ;
+
+// a href target
+var as = $mpage.getElementsByTagName("a")
+for(var i in as){
+    var a = as[i]
+    a.target = "_blank"
+    if(!a.innerText){
+        a.innerText = a.href
+    }
+}
+
 
 var ctnflg = document.createElement('div')
 ctnflg.className = 'mlgset'
