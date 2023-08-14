@@ -101,6 +101,7 @@ module.exports = {
             </li>
         </ul>`,
         `<p>Hacash由三个PoW币，HAC，HACD和BTC组成。那么要交易Hacash前，需要确定你要交易的币种，因为不同币种的交易平台并不相同。在中心化交易平台购买后，如果您想保存好你的Hacash，请创建你的钱包地址。</p>
+        <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
@@ -108,6 +109,7 @@ module.exports = {
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
             <!--DEX-Trade:-->
         </ul>
+        <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
             <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a> 适合喜欢匿名，需要少量随机HACD的用户</li>
@@ -120,6 +122,7 @@ module.exports = {
 
             <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a> 适合追求匿名安全，HAC本位收藏HACD的用户</li>
         </ul>
+        <a name="trading_btc"></a>
         <p><b>BTC:</b></p>
         <p>目前BTC单向转移暂未启动，所以还无法进行交易。你可以先通过 <a href="https://hacash.money/btc"></a> 了解BTC单向转移。</p>
         `,

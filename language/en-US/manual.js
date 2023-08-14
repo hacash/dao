@@ -101,6 +101,7 @@ module.exports = {
             </li>
         </ul>`,
         `<p>Hacash is composed of three PoW coins: HAC, HACD, and BTC. Before you start trading Hacash, you need to determine which coin you want to trade, as different trading platforms support different coins. After purchasing on a centralized trading platform, if you wish to securely store your Hacash, create your wallet address.</p>
+        <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
@@ -108,6 +109,7 @@ module.exports = {
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
             <!--DEX-Trade:-->
         </ul>
+        <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
             <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a> Suitable for users who prefer anonymity and need a small amount of random HACD</li>
@@ -120,6 +122,7 @@ module.exports = {
 
             <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a> Suitable for users seeking anonymity and security, and who want to collect HACD with a basis in HAC</li>
         </ul>
+        <a name="trading_btc"></a>
         <p><b>BTC:</b></p>
         <p>BTC one-way transfer has not yet been initiated, so trading is not currently available. You can learn about BTC one-way transfer through <a href="https://hacash.money/btc"></a> .</p>
         `,
