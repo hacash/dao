@@ -1,4 +1,8 @@
 module.exports = {
+
+    update: `Last modified: 08/15/2023, Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
+
+
     sidenavs: [
         ["Home"],
         ["Learn Hacash", "Introduction", "Value Proposition"],
@@ -15,13 +19,13 @@ module.exports = {
         <p>Hacash has three layers. Layer 1 includes the ASIC-resistant X16RS mining algorithm, the Beacon Tower Protocol with 51% attack resistance, readable contracts, optional privacy, equity account model, and BTC one-way transfer. Layer 2 functions as a channel chain settlement network, enabling large-scale instant payments of HAC and BTC. Layer 3 is an application ecosystem scaling layer based on Layer 1 and Layer 2, supporting various Rollup technologies and multi-chain protocols.</p>`,
         "What are the core values of Hacash?",
         `<ul>
-            <li><b>The Future World Currency</b>: Similar to the value logic of Bitcoin, Hacash has even greater potential to become the future's global circulating currency, presenting the opportunity for substantial returns on investment. Early investment may yield higher profits. Holding more shares of the new currency implies owning a larger stake in future wealth. Failing to embrace monetary change could result in wealth erosion due to the obsolescence of the old monetary system.
+            <li><b>The Future World Currency</b><br/>Similar to the value logic of Bitcoin, Hacash has even greater potential to become the future's global circulating currency, presenting the opportunity for substantial returns on investment. Early investment may yield higher profits. Holding more shares of the new currency implies owning a larger stake in future wealth. Failing to embrace monetary change could result in wealth erosion due to the obsolescence of the old monetary system.
             </li>
-            <li><b>Ultimate PoW Asset Paradigm</b>: The PoW endows digital assets with intrinsic value, making them usable as currency, constituting a disruptive asset paradigm. Hacash's three PoW coins – HAC, BTC, and HACD – form a comprehensive monetary system and digital asset framework under the PoW paradigm. Notably, HACD represents the first PoW NFT with the strongest store of value power and asset innovation.</li>
-            <li><b>Compatibility, Inheritance and Scaling of Bitcoin</b>: Hacash surpasses Bitcoin in terms of technical architecture maturity, decentralization degree, and fairness of the economic model. Transitioning from Bitcoin to Hacash assists in addressing Bitcoin's challenges of poor scalability, unadjustable currency quantity, and unsustainable economic model. Hacash aims to enhance the value of both through BTC one-way transfer.</li>
-            <li><b>Decentralized Financial System Based on Sound Money</b>: A sound money and financial infrastructure are paramount in the crypto industry. Within the Hacash ecosystem, built upon the most robust currency system, open decentralized currency and a financial world can be constructed through various levels of scalability technology.
+            <li><b>Ultimate PoW Asset Paradigm</b><br/>The PoW endows digital assets with intrinsic value, making them usable as currency, constituting a disruptive asset paradigm. Hacash's three PoW coins – HAC, BTC, and HACD – form a comprehensive monetary system and digital asset framework under the PoW paradigm. Notably, HACD represents the first PoW NFT with the strongest store of value power and asset innovation.</li>
+            <li><b>Compatibility, Inheritance and Scaling of Bitcoin</b><br/>Hacash surpasses Bitcoin in terms of technical architecture maturity, decentralization degree, and fairness of the economic model. Transitioning from Bitcoin to Hacash assists in addressing Bitcoin's challenges of poor scalability, unadjustable currency quantity, and unsustainable economic model. Hacash aims to enhance the value of both through BTC one-way transfer.</li>
+            <li><b>Decentralized Financial System Based on Sound Money</b><br/>A sound money and financial infrastructure are paramount in the crypto industry. Within the Hacash ecosystem, built upon the most robust currency system, open decentralized currency and a financial world can be constructed through various levels of scalability technology.
             </li>
-            <li><b>Cypherpunk's Historical Orthodoxy</b>: Just as Bitcoin resolved decentralization and double-spending issues, Hacash solves both decentralization and the problem of adjusting the money supply to maintain the stability of purchasing power. HAC embodies Wei Dai's B-Money, while HACD realizes Hal Finney's crypto trading card and Nick Szabo's Bit Gold. Hacash stands as the ultimate realization of historical cypherpunk ideals and objectives.</li>
+            <li><b>Cypherpunk's Historical Orthodoxy</b><br/>Just as Bitcoin resolved decentralization and double-spending issues, Hacash solves both decentralization and the problem of adjusting the money supply to maintain the stability of purchasing power. HAC embodies Wei Dai's B-Money, while HACD realizes Hal Finney's crypto trading card and Nick Szabo's Bit Gold. Hacash stands as the ultimate realization of historical cypherpunk ideals and objectives.</li>
         </ul>
         `,
     ],
@@ -106,28 +110,28 @@ module.exports = {
         <ul>
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
             <li>Vindax: <a href="https://vindax.com/exchange-base.html?symbol=HAC_USDT"></a></li>
+            <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
-            <!--DEX-Trade:-->
         </ul>
         <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
-            <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a> Suitable for users who prefer anonymity and need a small amount of random HACD</li>
+            <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a><br/>Suitable for users who prefer anonymity and need a small amount of random HACD</li>
 
-            <li>HacashSea: <a href="https://sea.hacash.diamonds"></a> Suitable for users who prefer to select specific HACD</li>
+            <li>HacashSea: <a href="https://sea.hacash.diamonds"></a><br/>Suitable for users who prefer to select specific HACD</li>
 
-            <li>HacashPool: <a href="https://hacpool.com/hacd"></a> Suitable for users who prefer to select premium HACD</li>
+            <li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>Suitable for users who prefer to select premium HACD</li>
 
-            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a> Suitable for users familiar with OpenSea and interested in collecting specific HACD</li>
+            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>Suitable for users familiar with OpenSea and interested in collecting specific HACD</li>
 
-            <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a> Suitable for users seeking anonymity and security, and who want to collect HACD with a basis in HAC</li>
+            <li>Hacash.Diamonds DEX: <a href="https://dex.hacash.diamonds/dex"></a><br/>Suitable for users seeking anonymity and security, and who want to collect HACD with a basis in HAC</li>
         </ul>
         <a name="trading_btc"></a>
         <p><b>BTC:</b></p>
         <p>BTC one-way transfer has not yet been initiated, so trading is not currently available. You can learn about BTC one-way transfer through <a href="https://hacash.money/btc"></a> .</p>
         `,
         `<p>You don't need to worry about the security of the Hacash network. You can run a full node of the Hacash network in just three steps to increase the decentralization and security of the network. Before setting up an HAC mining pool or engaging in HACD mining, you must first set up a full node.</p>
-        <p><a class="btn" href="https://hacash.org/get_started#minernode">搭建 Hacash 全节点</a>`,
+        <p><a class="btn" href="https://hacash.org/get_started#minernode">Running a full node</a>`,
         `<p>For HAC and HACD in Hacash, mining requires mining machines and electricity, and they need to be mined separately. Currently, HACD mining is only possible solo.</p>
         <p>
             <a class="btn" href="https://hacash.org/get_started#minernode">Solo Mining HAC
@@ -177,15 +181,15 @@ module.exports = {
         
         `<p>ㄜ is Hacash's currency symbol, and using it in social media names can help garner attention from the Hacash community.</p>
         <p>
-            <a href="https://twitter.com/LeonardoHacash "></a><br/>
-            <a href="https://twitter.com/Jackxxx216"></a><br/>
-            <a href="https://twitter.com/Dr_T_123"></a><br/>
-            <a href="https://twitter.com/HacashWizard"></a><br/>
-            <a href="https://twitter.com/spec01010"></a><br/>
-            <a href="https://twitter.com/andy99feng"></a><br/>
-            <a href="https://twitter.com/YouKenTrust"></a><br/>
-            <a href="https://twitter.com/Hacashi_248"></a><br/>
-            <a href="https://twitter.com/AquilaXBT"></a><br/>
+            <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
+            <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
+            <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
+            <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
+            <a href="https://twitter.com/spec01010">@spec01010</a><br/>
+            <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
+            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
+            <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
 

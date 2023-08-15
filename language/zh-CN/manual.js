@@ -1,5 +1,7 @@
 module.exports = {
 
+    update: `最后修改于 08/15/2023，如有任何问题，请直接给 <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> 留言！`,
+
     sidenavs: [
         ["首页"],
         ["了解Hacash", "简介", "价值点"],
@@ -16,11 +18,11 @@ module.exports = {
         <p>Hacash主要分为三层架构，一层包含了抗ASIC算法X16RS，抗51%攻击的烽火台协议，可读性合约，可选隐私，股权账户模型和单向转移BTC技术。二层为通道链结算网络，支持HAC和BTC的大规模秒速支付。三层是基于一层和二层的应用生态扩容层，支持各种Rollup技术和多链协议。</p>`,
         "Hacash的核心价值是什么?",
         `<ul>
-            <li><b>未来世界货币</b>：与比特币价值逻辑一样，HAC相比更有潜力成为未来的全球流通货币，投资其中可能获得巨大回报。早期投资可能带来更高的收益。持有更多新货币份额意味着拥有更多未来财富份额。不跟随货币变革可能因旧货币系统的淘汰导致财富缩水。</li>
-            <li><b>极致的PoW资产范式</b>：PoW机制为数字资产创造了内在价值，可用作货币，是颠覆性资产范式。Hacash的三个PoW币：HAC、BTC、HACD就是PoW范式下的不同能级又范畴完备的通货体系和数字资产。其中HACD是第一个PoW NFT，拥有最强的价值储存性能和资产的创新。</li>
-            <li><b>兼容、继承和扩展比特币</b>：Hacash在技术架构成熟度、去中心化程度、经济模型公平性均高于比特币，将比特币转移到Hacash有助于解决比特币应用扩展性差，货币数量无法调节和经济模型不可持续的问题。Hacash将通过单向转移技术继承比特币来提升双方的价值。 </li>
-            <li><b>以健全货币为基础的去中心化金融系统</b>：健全货币及金融需求是加密行业最重要的部分。在Hacash这个最健全的货币系统上，可通过不同层级的扩容技术来构建开放的去中心化货币及基于之上的开放金融世界。</li>
-            <li><b>密码学历史正统性</b>：比特币同时解决了去中心化和双花问题，Hacash同时解决了去中心化和货币供应调节维持购买力稳定的问题。HAC实现了戴伟的B-Money，HACD实现了哈尔芬尼的加密结算卡及尼克萨博的Bit Gold。Hacash是历史上加密朋克理念和目标的终极实现。</li>
+            <li><b>未来世界货币</b><br/>与比特币价值逻辑一样，HAC相比更有潜力成为未来的全球流通货币，投资其中可能获得巨大回报。早期投资可能带来更高的收益。持有更多新货币份额意味着拥有更多未来财富份额。不跟随货币变革可能因旧货币系统的淘汰导致财富缩水。</li>
+            <li><b>极致的PoW资产范式</b><br/>PoW机制为数字资产创造了内在价值，可用作货币，是颠覆性资产范式。Hacash的三个PoW币：HAC、BTC、HACD就是PoW范式下的不同能级又范畴完备的通货体系和数字资产。其中HACD是第一个PoW NFT，拥有最强的价值储存性能和资产的创新。</li>
+            <li><b>兼容、继承和扩展比特币</b><br/>Hacash在技术架构成熟度、去中心化程度、经济模型公平性均高于比特币，将比特币转移到Hacash有助于解决比特币应用扩展性差，货币数量无法调节和经济模型不可持续的问题。Hacash将通过单向转移技术继承比特币来提升双方的价值。 </li>
+            <li><b>以健全货币为基础的去中心化金融系统</b><br/>健全货币及金融需求是加密行业最重要的部分。在Hacash这个最健全的货币系统上，可通过不同层级的扩容技术来构建开放的去中心化货币及基于之上的开放金融世界。</li>
+            <li><b>密码学历史正统性</b><br/>比特币同时解决了去中心化和双花问题，Hacash同时解决了去中心化和货币供应调节维持购买力稳定的问题。HAC实现了戴伟的B-Money，HACD实现了哈尔芬尼的加密结算卡及尼克萨博的Bit Gold。Hacash是历史上加密朋克理念和目标的终极实现。</li>
         </ul>
         `,
     ],
@@ -112,15 +114,15 @@ module.exports = {
         <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
-            <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a> 适合喜欢匿名，需要少量随机HACD的用户</li>
+            <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a><br/>适合喜欢匿名，需要少量随机HACD的用户</li>
 
-            <li>HacashSea: <a href="https://sea.hacash.diamonds"></a> 适合喜欢挑选特定HACD的用户</li>
+            <li>HacashSea: <a href="https://sea.hacash.diamonds"></a><br/>适合喜欢挑选特定HACD的用户</li>
 
-            <li>HacashPool: <a href="https://hacpool.com/hacd"></a> 适合喜欢挑选精品HACD的用户</li>
+            <li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>适合喜欢挑选精品HACD的用户</li>
 
-            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a> 适合会使用OpenSea，需要收藏具象HACD的用户</li>
+            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>适合会使用OpenSea，需要收藏具象HACD的用户</li>
 
-            <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a> 适合追求匿名安全，HAC本位收藏HACD的用户</li>
+            <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a><br/>适合追求匿名安全，HAC本位收藏HACD的用户</li>
         </ul>
         <a name="trading_btc"></a>
         <p><b>BTC:</b></p>
@@ -177,15 +179,15 @@ module.exports = {
         `<p>Hacash没有创始人和团队，意味着它的发展将完全由社区决定。任何人都可以对Hacash提出优化和改进的建议，如果被正式讨论，则会分配一个 HIP 编码，可以在社区的各个地方提出。从目前来看，交易所和市场在HacashTalk和Telegram提出较多，开发在Discord提出较多。我们会跟进社区引领者的进度，汇聚在HacashDAO的首页。</p>`,
         `<p>ㄜ是Hacash的货币符号，社交媒体名字上ㄜ会更容易获得Hacash社区的关注</p>
         <p>
-            <a href="https://twitter.com/LeonardoHacash "></a><br/>
-            <a href="https://twitter.com/Jackxxx216"></a><br/>
-            <a href="https://twitter.com/Dr_T_123"></a><br/>
-            <a href="https://twitter.com/HacashWizard"></a><br/>
-            <a href="https://twitter.com/spec01010"></a><br/>
-            <a href="https://twitter.com/andy99feng"></a><br/>
-            <a href="https://twitter.com/YouKenTrust"></a><br/>
-            <a href="https://twitter.com/Hacashi_248"></a><br/>
-            <a href="https://twitter.com/AquilaXBT"></a><br/>
+            <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
+            <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
+            <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
+            <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
+            <a href="https://twitter.com/spec01010">@spec01010</a><br/>
+            <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
+            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
+            <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
         </p>`,
         `<p>Hacash的三币三层结构，每一个币和每一个层级都涉及了大量的开发和创新工作。</p>
 

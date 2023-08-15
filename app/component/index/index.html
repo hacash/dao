@@ -1,3 +1,7 @@
+[:
+    var ind = lang.index;
+:]
+
 <div id="screen">
     <div class="bgcv"></div>
     <div class="container">
@@ -5,18 +9,18 @@
             <div class="ttl">
                 <!-- <h1 class="ht">Welcome to <span>HacashDAO</span></h1> -->
                 <h1 class="ht"><img class="ico" src="https://hacash.org/cssimg/hacash_sign.svg" /><span>HacashDAO</span></h1>
-                <p class="desc">Hacash has 3 proof-of-work coins and 3 layers, aiming to be the most stable purchasing power crypto & scalable infrastructure.<br/>  HacashDAO drives the adoption.</p>
+                <p class="desc">[:=ind.intro:]</p>
             </div>
             <div class="btns">
                 <div class="row r1">
-                    <div class="col c1"><a href="/start#trading_hac">Buy HAC</a></div>
-                    <div class="col c2"><a href="/start#wallet">Create Wallet</a></div>
-                    <div class="col c3"><a href="https://explorer.hacash.org">Browse Blocks</a></div>
+                    <div class="col c1"><a href="/start#trading_hac">[:=ind.qkbtns[0]:]</a></div>
+                    <div class="col c2"><a href="/start#wallet">[:=ind.qkbtns[1]:]</a></div>
+                    <div class="col c3"><a href="https://explorer.hacash.org">[:=ind.qkbtns[2]:]</a></div>
                 </div>
                 <div class="row r2">
-                    <div class="col c1"><a href="/start#trading">Exchange</a></div>
-                    <div class="col c2"><a href="/start#mining">Mining</a></div>
-                    <div class="col c3"><a href="/learn">Learn Hacash</a></div>
+                    <div class="col c1"><a href="/start#trading">[:=ind.qkbtns[3]:]</a></div>
+                    <div class="col c2"><a href="/start#mining">[:=ind.qkbtns[4]:]</a></div>
+                    <div class="col c3"><a href="/learn">[:=ind.qkbtns[5]:]</a></div>
                 </div>
             </div>
         </div>
@@ -28,7 +32,7 @@
 <a name="roadmap"></a>
 <div id="road" class="psec">
     <div class="container">
-        <div class="pttl"><h1 class="ht">Crowdfund & Roadmap</h1></div>
+        <div class="pttl"><h1 class="ht">[:=ind.ttl1:]</h1></div>
         <div class="cdwrap">
             <div class="card"><div class="box red"><div class="con">
 
@@ -39,19 +43,18 @@
                 <div class="list">
                     <div class="item active">
                         <a href="https://hacashtalk.com/t/100-hac-5-hacd-for-first-exchange-listing-trackable-by-coinmarketcap-com/58" target="_blank">
-                            <h5>Get Hacash (HAC) listed on CoinMarketCap</h5>
-                            <div class="act">
-                                <!-- <p class="intro">Requires 7500U to develop CUDA adaptation programs</p> -->
+                            <h5>Get HAC listed on CoinMarketCap and CoinGecko</h5>
+                            <!-- <div class="act">
                                 <div class="progress"><u></u><b><i>31%</i></b></div>
-                            </div>
+                            </div> -->
                         </a>
                     </div>
                     <div class="item active hot">
-                        <a href="" target="_blank">
-                            <h5>Crowdfund 6000 USDT for Txbit exchange listing</h5>
+                        <a href="https://hacashtalk.com/t/hacash-crowdfunding-campaign-for-listing-on-txbit-exchange/166" target="_blank">
+                            <h5>Crowdfunding for HAC listing on Txbit exchange </h5>
                             <div class="act">
                                 <!-- <p class="intro">Requires 7500U to develop CUDA adaptation programs</p> -->
-                                <div class="progress"><u>6000U</u><b><i>85%</i></b></div>
+                                <div class="progress"><u>6000U</u><b><i>100%</i></b></div>
                             </div>
                         </a>
                     </div>
@@ -78,7 +81,7 @@
 
                 <br /> <br />
                 <div class="hd">
-                    <h3 class="tt">Plan:</h3>
+                    <h3 class="tt">Plans:</h3>
                     <p class="per"></p>
                 </div>
                 <div class="list">
@@ -103,10 +106,6 @@
                     <div class="item">
                             <h5>Identify at least 5 KOLs to mention Hacash mining</h5>
                     </div>
-                    <div class="item">
-                            <h5>Identify at least 10 KOLs to mention BTC one-way transfers</h5>
-                    </div>
-
                 </div>
 
                 <br /> <br />
@@ -122,7 +121,7 @@
                         <a href="https://twitter.com/HacashDAO/status/1623869333888983040" target="_blank"><h5>HacashDAO Founded</h5></a>
                     </div>
                     <div class="item down">
-                        <a href="https://twitter.com/HacashDAO/status/1654149680765255684" target="_blank"><h5>Reach daily trading volume of 1K HAC/USDT on Dex-trade Exchange </h5></a>
+                        <a href="https://twitter.com/HacashNews/status/1632279524783316992" target="_blank"><h5>YouTuber Rabid Mining mentioned about HAC</h5></a>
                     </div>
                     <div class="item down">
                         <a href="https://hacashtalk.com/t/donation-for-hacash-exchange-listing-trackable-by-coinmarketcap/67" target="_blank">
@@ -239,7 +238,7 @@
     <div class="container">
         <div class="hdwrap">
             <div class="btn">
-                <h1 class="ht">About HacashDAO</h1>
+                <h1 class="ht">[:=ind.abt[0]:] HacashDAO</h1>
                 <!-- <p></p> -->
                 <!-- <a href="https://hacash.org/file/hacash_white_paper_en.pdf" target="_blank"><button>Read Whitepaper</button></a> -->
             </div>
@@ -248,8 +247,8 @@
             </div>
         </div>
         <div class="info">
-            <p>THacashDAO is comprised of individuals with a profound comprehension of the fundamental nature of money, acknowledging that Bitcoin might not represent the most ideal currency.We hold a strong conviction that Hacash is poised to become the future's predominant mainstream currency. </p>
-            <p>Our dedication lies in rectifying the sluggish progress caused by the absence of an official team and the equitable distribution of Hacash. By leveraging the collective strength of the Hacash community, we curate and furnish extensive information, unceasingly champion the value and innovation inherent in Hacash, and propel Hacash towards advancement.</p>
+            <p>[:=ind.abt[1]:]</p>
+            <p>[:=ind.abt[2]:]</p>
         </div>
     </div>
     
