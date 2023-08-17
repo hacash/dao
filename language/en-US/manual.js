@@ -1,6 +1,6 @@
 module.exports = {
 
-    update: `Last modified: 08/15/2023, Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
+    update: `Last modified: 08/15/2023<br/>Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
 
 
     sidenavs: [
@@ -43,16 +43,16 @@ module.exports = {
             <li><b>Supply Mechanism</b>: Supply can be increased, decreased, or maintained.<br/>
             Increase: 1. Block rewards 2. Bitcoin one-way transfer incentives 3. HACD and BTC collateralized lending 4. Layer2 payment network staking interest<br/>
             Decrease: 1. HACD auction destruction 2. Redemption and destruction of collateralized HACD and BTC 3. Destruction of interest from collateralized HACD and BTC lending 4. Destruction of transaction fees from special category transactions</li>
-            <li><b>Block Reward Rules</b>: Follows the Fibonacci principle of increasing and then decreasing, with one block every 5 minutes, yielding 288 blocks per day.</li>
-        </ul>
-        <p>Production of the first block began on February 4, 2019.</p>
-        <p>Phase One: Quantity adjusts approximately every 100,000 blocks (about 0.95 years), with gradually increasing rewards;
-        Block rewards were 1 HAC in 2020, 2 HAC in 2021, 3 HAC in 2022, 5 HAC in 2023, and 8 HAC in 2024.</p>
-        <p>Phase Two: Quantity adjusts approximately every 1,000,000 blocks (about 9.5 years), with gradually decreasing rewards;<br/>Entering the second phase, from 2025, the reward remains at 8 HAC for a continuous period of ten years. Starting in 2035, the reward decreases to 5 HAC, followed by 3 HAC in 2045, 2 HAC in 2055, 1 HAC in 2065, and another continuous ten years of 1 HAC from 2075.</p>
-        <p>Phase Three: Ultimately settles at a constant block reward of 1 HAC.<br/>
-        Within the 66 years leading up to the third phase, the total block rewards amount to 22 million. The next change in block rewards can be checked through the community tool. </p>
-        <p>How to Mint: HAC follows the X16RS algorithm, which is resistant to ASIC miners. Mining began with CPUs and there is now a team that has developed GPU mining tools.</p>
-        <p>Circulation: Approximately 1 million total supply, with 510,000 destroyed. Statistical data is subject to change and can be verified through the <a href="https://explorer.hacash.org">Block Explorer</a>.</p>`,
+            <li><b>Block Reward Rules</b>: Follows the Fibonacci principle of increasing and then decreasing, with one block every 5 minutes, yielding 288 blocks per day.
+            <p>Production of the first block began on February 4, 2019.</p>
+            <p>Phase One: Quantity adjusts approximately every 100,000 blocks (about 0.95 years), with gradually increasing rewards;
+            Block rewards were 1 HAC in 2020, 2 HAC in 2021, 3 HAC in 2022, 5 HAC in 2023, and 8 HAC in 2024.</p>
+            <p>Phase Two: Quantity adjusts approximately every 1,000,000 blocks (about 9.5 years), with gradually decreasing rewards;<br/>Entering the second phase, from 2025, the reward remains at 8 HAC for a continuous period of ten years. Starting in 2035, the reward decreases to 5 HAC, followed by 3 HAC in 2045, 2 HAC in 2055, 1 HAC in 2065, and another continuous ten years of 1 HAC from 2075.</p>
+            <p>Phase Three: Ultimately settles at a constant block reward of 1 HAC.<br/>
+            Within the 66 years leading up to the third phase, the total block rewards amount to 22 million. The next change in block rewards can be checked through the community tool. </p>
+            <li><b>How to Mint</b>: HAC follows the X16RS algorithm, which is resistant to ASIC miners. Mining began with CPUs and there is now a team that has developed GPU mining tools.</li>
+            <li><b>Circulation</b>: Approximately 1 million total supply, with 510,000 destroyed. Statistical data is subject to change and can be verified through the <a href="https://explorer.hacash.org">Block Explorer</a>.</li>
+        </ul>`,
         
         `<ul>
             <li><b>Primary Utility</b>: Regulating HAC quantity, value storage, artistic creation, identity representation</li>
@@ -60,18 +60,18 @@ module.exports = {
             <li><b>Total Supply</b>: Comprising 6 letters from the set "WTYUIAHXVMEKBSZN" out of 16 letters, and non-repeating, the total supply is 16^6 = 16,777,216.</li>
             <li><b>Supply Mechanism</b>: Production can be halted based on supply and demand.</li>
             <li><b>Reward Rules</b> HACD production involves mining and bidding. One HACD is produced every 5 blocks, averaging 25 minutes. Within this 5-block interval, the highest-bidding HACD is included. However, HACD mining difficulty continually increases and does not decrease, production can be halted at any time based on market conditions. A maximum of 58 HACD can be produced daily, approximately 21,000 per year. Assuming sufficient computational power is invested, it is estimated that a maximum of less than 1.7 million HACD would be mined by the year 2100.</li>
-        </ul>
-        <p>How to Mint: HACD follows the X16RS+Diamond mining algorithm, which is resistant to ASIC miners. CPU mining is currently predominant. If multiple miners compete to mine simultaneously, on-chain bidding is required.</p>
-        <p>Circulation: Over 70,000, specific data can be verified through the <a href="https://explorer.hacash.org">Block Explorer</a>.</p>`,
+            <li><b>How to Mint</b>: HACD follows the X16RS+Diamond mining algorithm, which is resistant to ASIC miners. CPU mining is currently predominant. If multiple miners compete to mine simultaneously, on-chain bidding is required.</li>
+            <li><b>Circulation</b>: Over 70,000, specific data can be verified through the <a href="https://explorer.hacash.org">Block Explorer</a>.</li>
+        </ul>`,
 
         `<ul>
             <li><b>Primary Utility</b>: Regulating HAC quantity, scaling Bitcoin</li>
             <li><b>Divisibility</b>: Divisible, with divisibility of 10^8</li>
             <li><b>Total Supply</b>: Total supply of 21 million, dependent on how many BTC are unilaterally transferred to the Hacash mainnet</li>
             <li><b>Supply Mechanism</b>: Transfer can be halted based on supply and demand</li>
-            <li><b>Reward</b>: Unilateral BTC transfers can receive HAC risk compensation.</li>
-        </ul>        
-        <p>How to Mint: Hacash and Bitcoin share the same account model. Using a Bitcoin address to unilaterally transfer whole BTC to a Bitcoin mainnet address without private key, generating BTC in Hacash before the transfer.</p>`,
+            <li><b>Reward</b>: Unilateral BTC transfers can receive HAC risk compensation.</li>    
+            <li><b>How to Mint</b>: Hacash and Bitcoin share the same account model. Using a Bitcoin address to unilaterally transfer whole BTC to a Bitcoin mainnet address without private key, generating BTC in Hacash before the transfer.</li>
+        </ul>`,
     ],
 
     start: [

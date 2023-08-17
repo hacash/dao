@@ -4,7 +4,7 @@ module.exports = {
     intro: "Hacash有3种PoW币和3个扩展层级，旨在成为稳定的购买力加密货币和可扩展的基础设施。<br/>HacashDAO致力于推动其发展。",
 
     qkbtns: [
-        '购买HAC', '创建钱包', '浏览区块', '交易所', '挖矿', '了解Hacash', 
+        '购买', '挖矿', '创建钱包', '浏览区块', '了解Hacash', '加入Hacash' 
     ],
 
     ttl1: "社区驱动的路线图和众筹",
