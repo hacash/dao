@@ -22,5 +22,5 @@ for(var i in as){
 
 var ctnflg = document.createElement('div')
 ctnflg.className = 'mlgset'
-ctnflg.innerHTML = '<div></div><div class="lang"><a href="?lang=en-US">English</a> / <a href="?lang=zh-CN">中文</a></div>'
+ctnflg.innerHTML = '<div></div><div class="lang"><a href="?lang=en-US">🇺🇸English</a> / <a href="?lang=zh-CN">🇨🇳中文</a></div>'
 $ctnr.appendChild(ctnflg)

@@ -1,6 +1,6 @@
 module.exports = {
 
-    update: `Last modified: 08/15/2023<br/>Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
+    update: `Last modified: 08/18/2023<br/>Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
 
 
     sidenavs: [

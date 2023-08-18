@@ -1,6 +1,6 @@
 module.exports = {
 
-    update: `最后修改于 08/15/2023<br/>如有任何问题，请直接给 <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> 留言！`,
+    update: `最后修改于 08/18/2023<br/>如有任何问题，请直接给 <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> 留言！`,
 
     sidenavs: [
         ["首页"],
@@ -66,7 +66,7 @@ module.exports = {
             <li><b>分割性</b>：可分割，分割性为10^8</li>
             <li><b>数量</b>：总量为2100万，取决于有多少个BTC单向转移到Hacash主网中来</li>
             <li><b>数量调节</b>：可根据供需停止转移</li>
-            <li><b>生产规则</b>：单向转移BTC可以获得HAC的风险补偿。假如您是第300笔比特币单向转移，您的排名将是10，您将获得2048HAC的奖励，锁定期为2周，每周释放 1024 HAC。更多细节可访问：<a href="https://hacash.money/btc"></a></p>
+            <li><b>生产规则</b>：单向转移BTC可以获得HAC的风险补偿。假如您是第1000笔比特币单向转移，您的排名将是10，您将获得2048HAC的奖励，锁定期为2周，每周释放 1024 HAC。更多细节可访问：<a href="https://hacash.money/btc"></a></p>
             <li><b>生产方式</b>：Hacash和比特币具有相同的账户模型。用一个比特币地址将整数个BTC转入一个比特币主网无私钥的销毁地址，转移前的地址在在Hacash中生成BTC</li>  
             <li><b>当前流通</b>：未流通</li>
         </ul> `,
