@@ -196,14 +196,11 @@ module.exports = {
             <a href="https://twitter.com/shujin618">@shujin618</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
-
         <p>Hacash Development Documentation: <a href="https://hacash.org/develop"></a></p>
-        
         <p>If you wish to join the core Hacash development team, you can currently follow this process: <a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
-        
         <p>Hacash Proposals: <a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
-        
-        <p>If you intend to make a HIP proposal, you can initiate a well-discussed proposal within the community.</p>`,
+        <p>If you intend to make a HIP proposal, you can initiate a well-discussed proposal within the community.</p>
+        <p>February 2023 statistics for Hacash code contribution geography: <a href="https://twitter.com/HacashDAO/status/1630142159272964096"></a></p>`,
     ],
 
     resource: [

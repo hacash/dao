@@ -190,14 +190,11 @@ module.exports = {
             <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
         </p>`,
         `<p>Hacash的三币三层结构，每一个币和每一个层级都涉及了大量的开发和创新工作。</p>
-
         <p>Hacash开发文档：<a href="https://hacash.org/develop"></a></p>
-        
         <p>如果你想加入Hacash核心开发组，可以按照这个流程：<a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
-        
         <p>Hacash提案：<a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
-        
-        <p>如果你想进行 HIP 提案，可以在社区进行充分讨论立案。</p>`,
+        <p>如果你想进行 HIP 提案，可以在社区进行充分讨论立案。</p>
+        <p>2023年2月Hacash代码贡献地域的统计：<a href="https://twitter.com/HacashDAO/status/1630142159272964096"></a></p>`,
     ],
 
     resource: [
