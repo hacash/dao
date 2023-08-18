@@ -38,7 +38,7 @@ module.exports = {
         <p>We can delineate these three currencies from perspectives such as divisibility, quantity, production methods, production rules, quantity adjustment, primary utility, and current circulation.</p>`,
         `<ul>
             <li><b>Primary Utility</b>: Payment settlement</li>
-            <li><b>Divisibility</b>: 10^248, approaching unlimited divisibility</li>
+            <li><b>Divisibility</b>: 10^248, approaching unlimited divisibility (<a href="https://hacash.org/hac_unit" target="_blank">HAC Unit Conversion</a>)</li>
             <li><b>Quantity</b>: Unlimited</li>
             <li><b>Supply Mechanism</b>: Supply can be increased, decreased, or maintained.<br/>
             Increase: 1. Block rewards 2. Bitcoin one-way transfer incentives 3. HACD and BTC collateralized lending 4. Layer2 payment network staking interest<br/>

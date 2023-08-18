@@ -4,7 +4,7 @@ module.exports = {
     intro: "Hacash has 3 proof-of-work coins and 3 layers, aiming to be the most stable purchasing power crypto & scalable infrastructure. <br>HacashDAO drives the adoption.",
 
     qkbtns: [
-        'Buy Hacash', 'Mining Hacash', 'Create Wallet', 'Browse Blocks', 'Learn Hacash', 'Join Hacash'
+        'Buy Hacash', 'Mining Hacash', 'Create Wallet', 'Explore Blocks', 'Learn Hacash', 'Join Hacash'
     ],
 
     ttl1: "Community Driven Roadmap and Crowdfunding",
