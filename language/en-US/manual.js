@@ -69,7 +69,7 @@ module.exports = {
             <li><b>Divisibility</b>: Divisible, with divisibility of 10^8</li>
             <li><b>Total Supply</b>: Total supply of 21 million, dependent on how many BTC are unilaterally transferred to the Hacash mainnet</li>
             <li><b>Supply Mechanism</b>: Transfer can be halted based on supply and demand</li>
-            <li><b>Reward</b>: Unilateral BTC transfers can receive HAC risk compensation.</li>    
+            <li><b>Reward</b>: Unilateral BTC transfers can receive HAC risk compensation. More details: <a href="https://hacash.money/btc"></a></li>    
             <li><b>How to Mint</b>: Hacash and Bitcoin share the same account model. Using a Bitcoin address to unilaterally transfer whole BTC to a Bitcoin mainnet address without private key, generating BTC in Hacash before the transfer.</li>
         </ul>`,
     ],
@@ -155,6 +155,7 @@ module.exports = {
             <li>HacashNews: <a href="https://twitter.com/HacashNews"></a></li>
             <li>HacashCom: <a href="https://twitter.com/HacashCom"></a></li>
             <li>HacashDiamond: <a href="https://twitter.com/HacashDiamond"></a></li>
+            <li>HACPool: <a href="https://twitter.com/HacWowpool"></a></li>
         </ul>
         <p><b>Discord:</b></p>
         <ul>
@@ -190,6 +191,9 @@ module.exports = {
             <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
             <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
+            <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
+            <a href="https://twitter.com/taowang06">@taowang06</a><br/>
+            <a href="https://twitter.com/shujin618">@shujin618</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
 
@@ -229,6 +233,10 @@ module.exports = {
             <li>Hacash.Diamonds block explorer: <a href="https://explorer.hacash.diamonds/"></a></li>
             <li>Hacash unit conversion: <a href="https://hacash.org/hac_unit"></a></li>
             <li>Hacash mining information: <a href="https://miningpoolstats.stream/hacash"></a></li>
+            <li>HACD HIP-5 address analysis: <a href="https://hacpool.com/address"></a></li>
+            <li>HACD HIP-5 report: <a href="https://hacpool.com/report"></a></li>
+            <li>HACD bidding: <a href="https://hacpool.com/bidding"></a></li>
+            <li>HACD HIP-5 types: <a href="https://www.hacash.diamonds/types"></a></li>
         </ul>`,
         `<p></p>
         <ul>
