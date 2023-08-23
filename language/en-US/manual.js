@@ -83,25 +83,25 @@ module.exports = {
                 <b>One-Click Generation</b><br/>
                 Suitable for: Users who only need to create an address to receive assets<br/>
                 Supported Devices: Latest browsers on various smartphones and computers<br/>
-                <a class="btn" href="https://wallet.hacash.org/#create">Go to use ➟</a>
+                <a class="btn" href="https://wallet.hacash.org/create">Go to use ➟</a>
             </li>
             <li>
                 <b>Online Web Wallet</b><br/>
                 Suitable for: Users who seek convenience and need to perform transactions<br/>
                 Supported Devices: Latest browsers on various smartphones and computers<br/>
-                <a class="btn" href="https://wallet.hacash.org/#create">Go to use ➟</a>
+                <a class="btn" href="https://wallet.hacash.org/web">Go to use ➟</a>
             </li>
             <li>
                 <b>Offline Web Wallet</b><br/>
                 Suitable for: Users who seek convenience and need to perform transactions<br/>
                 Supported Devices: Latest browsers on various smartphones and computers<br/>
-                <a class="btn" href="https://wallet.hacash.org/#create">Go to use ➟</a>
+                <a class="btn" href="https://wallet.hacash.org/">Go to use ➟</a>
             </li>
             <li>
                 <b>Offline Desktop Wallet</b><br/>
                 Suitable for: Experienced users and those who prioritize absolute security, as it contains the most comprehensive features<br/>
                 Supported Devices: Windows/Ubuntu/MacOS<br/>
-                <a class="btn" href="https://wallet.hacash.org/#create">Go to use ➟</a>
+                <a class="btn" href="https://wallet.hacash.org/desktop">Go to use ➟</a>
             </li>
         </ul>`,
         `<p>Hacash is composed of three PoW coins: HAC, HACD, and BTC. Before you start trading Hacash, you need to determine which coin you want to trade, as different trading platforms support different coins. After purchasing on a centralized trading platform, if you wish to securely store your Hacash, create your wallet address.</p>

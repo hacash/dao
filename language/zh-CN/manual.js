@@ -81,25 +81,25 @@ module.exports = {
                 <b>一键生成地址</b><br/>
                 适用人群：只需要创建地址用来接收资产的用户<br/>
                 支持设备：各手机、电脑最新浏览器</br>
-                <a class="btn" href="https://wallet.hacash.org/#create">去使用➟</a>
+                <a class="btn" href="https://wallet.hacash.org/create">去使用➟</a>
             </li>
             <li>
                 <b>在线网页钱包</b><br/>
                 适用人群：追求方便，需要进行转账的用户<br/>
                 支持设备：各手机、电脑最新浏览器</br>
-                <a class="btn" href="https://wallet.hacash.org/#create">去使用➟</a>
+                <a class="btn" href="https://wallet.hacash.org/web">去使用➟</a>
             </li>
             <li>
                 <b>离线网页钱包</b><br/>
                 适用人群：追求方便和安全，需要进行转账的用户<br/>
                 支持设备：各电脑最新浏览器</br>
-                <a class="btn" href="https://wallet.hacash.org/#create">去使用➟</a>
+                <a class="btn" href="https://wallet.hacash.org/">去下载➟</a>
             </li>
             <li>
                 <b>离线桌面钱包</b><br/>
                 适用人群：含有最全面的功能，为资深用户和追求绝对安全的用户准备<br/>
                 支持设备：Windows/Ubuntu/MacOS</br>
-                <a class="btn" href="https://wallet.hacash.org/#create">去使用➟</a>
+                <a class="btn" href="https://wallet.hacash.org/desktop">去下载➟</a>
             </li>
         </ul>`,
         `<p>Hacash由三个PoW币，HAC，HACD和BTC组成。那么要交易Hacash前，需要确定你要交易的币种，因为不同币种的交易平台并不相同。在中心化交易平台购买后，如果您想保存好你的Hacash，请创建你的钱包地址。</p>
