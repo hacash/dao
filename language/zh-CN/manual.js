@@ -188,6 +188,9 @@ module.exports = {
             <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
             <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
+            <a href="https://twitter.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
+            <a href="https://twitter.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
+            <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash的三币三层结构，每一个币和每一个层级都涉及了大量的开发和创新工作。</p>
         <p>Hacash开发文档：<a href="https://hacash.org/develop"></a></p>

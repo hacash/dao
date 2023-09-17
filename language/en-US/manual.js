@@ -194,6 +194,9 @@ module.exports = {
             <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
             <a href="https://twitter.com/taowang06">@taowang06</a><br/>
             <a href="https://twitter.com/shujin618">@shujin618</a><br/>
+            <a href="https://twitter.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
+            <a href="https://twitter.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
+            <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
         <p>Hacash Development Documentation: <a href="https://hacash.org/develop"></a></p>
