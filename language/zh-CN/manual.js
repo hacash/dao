@@ -106,10 +106,10 @@ module.exports = {
         <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
+            <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
             <li>Vindax: <a href="https://vindax.com/exchange-base.html?symbol=HAC_USDT"></a></li>
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
-            <!--DEX-Trade:-->
         </ul>
         <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
