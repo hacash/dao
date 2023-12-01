@@ -106,8 +106,9 @@ module.exports = {
         <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
-            <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
+            <li>NonKYC: <a href="https://nonkyc.com/market/HAC_USDT"></a></li> 
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
+            <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
             <li>Vindax: <a href="https://vindax.com/exchange-base.html?symbol=HAC_USDT"></a></li>
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
         </ul>
