@@ -17,8 +17,8 @@ exports.datas = async function(cnf, ctx)
 
     // // console.log(ctx.lang)
     // let langmaps = {
-    //     '/en': "en_US",
-    //     '/cn': "zh_CN",
+    //     '/en': "en",
+    //     '/cn': "zh",
     // }
     // let ln = langmaps[ctx.req.url] || "en_US"
     // lang = ctx.loadLang(ln)
