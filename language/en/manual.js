@@ -38,7 +38,7 @@ module.exports = {
         <p>We can delineate these three currencies from perspectives such as divisibility, quantity, production methods, production rules, quantity adjustment, primary utility, and current circulation.</p>`,
         `<ul>
             <li><b>Primary Utility</b>: Payment settlement</li>
-            <li><b>Divisibility</b>: 10^248, approaching unlimited divisibility (<a href="https://hacash.org/hac_unit" target="_blank">HAC Unit Conversion</a>)</li>
+            <li><b>Divisibility</b>: 10^248, approaching unlimited divisibility (<a href="https://hacash.org/HAC-unit" target="_blank">HAC Unit Conversion</a>)</li>
             <li><b>Quantity</b>: Unlimited</li>
             <li><b>Supply Mechanism</b>: Supply can be increased, decreased, or maintained.<br/>
             Increase: 1. Block rewards 2. Bitcoin one-way transfer incentives 3. HACD and BTC collateralized lending 4. Layer2 payment network staking interest<br/>
@@ -132,11 +132,11 @@ module.exports = {
         <p>BTC one-way transfer has not yet been initiated, so trading is not currently available. You can learn about BTC one-way transfer through <a href="https://hacash.money/btc"></a> .</p>
         `,
         `<p>You don't need to worry about the security of the Hacash network. You can run a full node of the Hacash network in just three steps to increase the decentralization and security of the network. Before setting up an HAC mining pool or engaging in HACD mining, you must first set up a full node.</p>
-        <p><a class="btn" href="https://hacash.org/get_started#minernode">Running a full node</a>`,
+        <p><a class="btn" href="https://hacash.org/run-full-node">Running a full node</a>`,
         `<p>For HAC and HACD in Hacash, mining requires mining machines and electricity, and they need to be mined separately. Currently, HACD mining is only possible solo.</p>
         <p>
-            <a class="btn" href="https://hacash.org/get_started#minernode">Solo Mining HAC
-            <a class="btn" href="https://hacash.org/get_started#diamond">Mining HACD</a>
+            <a class="btn" href="https://hacash.org/mining-HAC">Solo Mining HAC
+            <a class="btn" href="https://hacash.org/mining-HACD">Mining HACD</a>
         </p>
         <p>HAC mining can be done solo or by joining a mining pool. </p>
         <ul>
@@ -200,7 +200,7 @@ module.exports = {
             <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
-        <p>Hacash Development Documentation: <a href="https://hacash.org/develop"></a></p>
+        <p>Hacash Development Documentation: <a href="https://hacash.org/development"></a></p>
         <p>If you wish to join the core Hacash development team, you can currently follow this process: <a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
         <p>Hacash Proposals: <a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
         <p>If you intend to make a HIP proposal, you can initiate a well-discussed proposal within the community.</p>
@@ -232,7 +232,7 @@ module.exports = {
             <li>Hacash block reward countdown: <a href="https://hacash.brizy.site"></a></li>
             <li>Primary Hacash block explorer: <a href="https://explorer.hacash.org/"></a></li>
             <li>Hacash.Diamonds block explorer: <a href="https://explorer.hacash.diamonds/"></a></li>
-            <li>Hacash unit conversion: <a href="https://hacash.org/hac_unit"></a></li>
+            <li>Hacash unit conversion: <a href="https://hacash.org/HAC-unit"></a></li>
             <li>Hacash mining information: <a href="https://miningpoolstats.stream/hacash"></a></li>
             <li>HACD HIP-5 address analysis: <a href="https://hacpool.com/address"></a></li>
             <li>HACD HIP-5 report: <a href="https://hacpool.com/report"></a></li>
@@ -241,7 +241,7 @@ module.exports = {
         </ul>`,
         `<p></p>
         <ul>
-            <li>Hacash.org article list: <a href="https://hacash.org/articles"></a></li>
+            <li>Hacash.org article list: <a href="https://hacash.org/resource"></a></li>
             <li>Ken You's Hackernoon: <a href="https://hackernoon.com/u/kenyou"></a></li>
         </ul>`,
         `<ul>
@@ -250,8 +250,8 @@ module.exports = {
             <li><a href="https://www.youtube.com/watch?v=SOwL6buMfeg">What is HACD? Hacash Diamond Explained in Two Minutes</a></li>
         </ul>`,
         `<ul>
-            <li>Hacash whitepaper: <a href="https://hacash.org/file/hacash_white_paper_en.pdf"></a></li>
-            <li>Hacash development documentation: <a href="https://hacash.org/develop"></a></li>
+            <li>Hacash whitepaper: <a href="https://hacash.org/whitepaper.pdf"></a></li>
+            <li>Hacash development documentation: <a href="https://hacash.org/development"></a></li>
             <li>HacashNews 2022 report: <a href="https://hacashnews.com/file/report/hacash_2023_en.pdf"></a></li>
             <li>HACD collection guide: <a href="https://docs.hacash.diamonds/"></a></li>
             <li>HacashSea usage guide: <a href="https://docs-sea.hacash.diamonds/"></a></li>

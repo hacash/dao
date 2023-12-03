@@ -34,7 +34,7 @@ module.exports = {
         <p>我们可以从货币的分割性，数量，生产方式，生产规则，数量调节，主要用途，当前流通等角度来介绍这三个货币</p>`,
         `<ul>
             <li><b>主要用途</b>：支付结算</li>
-            <li><b>分割性</b>：10^248，接近无限分割（<a href="https://hacash.org/hac_unit" target="_blank">HAC单位换算</a>）</li>
+            <li><b>分割性</b>：10^248，接近无限分割（<a href="https://hacash.org/HAC-unit" target="_blank">HAC单位换算</a>）</li>
             <li><b>数量</b>：无上限</li>
             <li><b>数量调节</b>：供应量可以增加、减少或保持不变。增加：1. 区块奖励 2. 比特币单向转移激励 3. HACD和BTC抵押借贷 4. Layer2支付网络质押生息
             减少：1. HACD竞价销毁 2. 抵押借贷HACD和BTC赎回销毁 3. 抵押借贷HACD和BTC利息销毁 4. 特殊类别交易手续费销毁</li>
@@ -130,12 +130,12 @@ module.exports = {
         <p>目前BTC单向转移暂未启动，所以还无法进行交易。你可以先通过 <a href="https://hacash.money/btc"></a> 了解BTC单向转移。</p>
         `,
         `<p>只需要三步就可以运行Hacash网络的全节点，增加Hacash网络的去中心化和安全性。搭建 HAC 矿池或进行 HACD 挖矿之前，都必须先搭建一个全节点作为基础。</p>
-        <p><a class="btn" href="https://hacash.org/get_started#minernode">搭建 Hacash 全节点</a>`,
+        <p><a class="btn" href="https://hacash.org/run-full-node">搭建 Hacash 全节点</a>`,
         `<p>Hacash中HAC和HACD需要靠矿机和电力挖掘，且需要分别挖矿。</p>
         <p>HACD挖矿目前只能Solo。</p>
         <p>
-            <a class="btn" href="https://hacash.org/get_started#minernode">Solo 挖 HAC
-            <a class="btn" href="https://hacash.org/get_started#diamond">挖掘 HACD</a>
+            <a class="btn" href="https://hacash.org/mining-HAC">Solo 挖 HAC
+            <a class="btn" href="https://hacash.org/mining-HACD">挖掘 HACD</a>
         </p>
         <p>HAC挖矿可分为Solo或者加入矿池。以下是社区运行的矿池：</p>
         <ul>
@@ -194,7 +194,7 @@ module.exports = {
             <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash的三币三层结构，每一个币和每一个层级都涉及了大量的开发和创新工作。</p>
-        <p>Hacash开发文档：<a href="https://hacash.org/develop"></a></p>
+        <p>Hacash开发文档：<a href="https://hacash.org/development"></a></p>
         <p>如果你想加入Hacash核心开发组，可以按照这个流程：<a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
         <p>Hacash提案：<a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
         <p>如果你想进行 HIP 提案，可以在社区进行充分讨论立案。</p>
@@ -226,7 +226,7 @@ module.exports = {
             <li>Hacash区块奖励倒计时：<a href="https://hacash.brizy.site"></a></li>
             <li>Hacash主要区块浏览器：<a href="https://explorer.hacash.org/"></a></li>
             <li>Hacash.Diamonds的区块浏览器：<a href="https://explorer.hacash.diamonds/"></a></li>
-            <li>Hacash单位换算：<a href="https://hacash.org/hac_unit"></a></li>
+            <li>Hacash单位换算：<a href="https://hacash.org/HAC-unit"></a></li>
             <li>Hacash挖矿信息：<a href="https://miningpoolstats.stream/hacash"></a></li>
             <li>HACD HIP-5 按地址统计: <a href="https://hacpool.com/address"></a></li>
             <li>HACD HIP-5 等级展示: <a href="https://hacpool.com/report"></a></li>
@@ -235,7 +235,7 @@ module.exports = {
         </ul>`,
         `<p></p>
         <ul>
-            <li>Hacash.org 整理文章列表：<a href="https://hacash.org/articles"></a></li>
+            <li>Hacash.org 整理文章列表：<a href="https://hacash.org/resource"></a></li>
             <li>Ken You 的 Hackernoon：<a href="https://hackernoon.com/u/kenyou"></a></li>
         </ul>`,
         `<ul>
@@ -245,7 +245,7 @@ module.exports = {
         </ul>`,
         `<ul>
             <li>Hacash白皮书：<a href="https://github.com/hacash/paper/blob/master/whitepaper.cn.md"></a></li>
-            <li>Hacash开发文档：<a href="https://hacash.org/develop"></a></li>
+            <li>Hacash开发文档：<a href="https://hacash.org/development"></a></li>
             <li>HacashNews2022年报：<a href="https://hacashnews.com/file/report/hacash_2023_en.pdf"></a></li>
             <li>HACD收藏指南：<a href="https://docs.hacash.diamonds/"></a></li>
             <li>HacashSea使用指南：<a href="https://docs-sea.hacash.diamonds/"></a></li>
