@@ -57,7 +57,7 @@ module.exports = {
         `<ul>
             <li><b>Primary Utility</b>: Regulating HAC quantity, value storage, artistic creation, identity representation</li>
             <li><b>Divisibility</b>: Indivisible, each HACD consists of 6 letters.</li>
-            <li><b>Total Supply</b>: Comprising 6 letters from the set "WTYUIAHXVMEKBSZN" out of 16 letters, and non-repeating, the total supply is 16^6 = 16,777,216.</li>
+            <li><b>Total Supply</b>: Each HACD consists of a unique six letter combination randomly generated from the 16 letters "WTYUIAHXVMEKBSZN", therefore there are 16,777,216 possible HACD in total.</li>
             <li><b>Supply Mechanism</b>: Production can be halted based on supply and demand.</li>
             <li><b>Reward Rules</b> HACD production involves mining and bidding. One HACD is produced every 5 blocks, averaging 25 minutes. Within this 5-block interval, the highest-bidding HACD is included. However, HACD mining difficulty continually increases and does not decrease, production can be halted at any time based on market conditions. A maximum of 58 HACD can be produced daily, approximately 21,000 per year. Assuming sufficient computational power is invested, it is estimated that a maximum of less than 1.7 million HACD would be mined by the year 2100.</li>
             <li><b>How to Mint</b>: HACD follows the X16RS+Diamond mining algorithm, which is resistant to ASIC miners. CPU mining is currently predominant. If multiple miners compete to mine simultaneously, on-chain bidding is required.</li>
@@ -108,8 +108,8 @@ module.exports = {
         <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
-            <li>NonKYC: <a href="https://nonkyc.com/market/HAC_USDT"></a></li> 
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
+            <li>NonKYC: <a href="https://nonkyc.com/market/HAC_USDT"></a></li> 
             <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
             <li>Vindax: <a href="https://vindax.com/exchange-base.html?symbol=HAC_USDT"></a></li>
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
@@ -117,14 +117,12 @@ module.exports = {
         <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
+            <li>Xeggex: <a href="https://xeggex.com/market/HACD_USDT"></a></li> 
+            <li>NonKYC: <a href="https://nonkyc.com/market/HACD_USDT"></a></li> 
             <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a><br/>Suitable for users who prefer anonymity and need a small amount of random HACD</li>
-
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a><br/>Suitable for users who prefer to select specific HACD</li>
-
-            <li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>Suitable for users who prefer to select premium HACD</li>
-
-            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>Suitable for users familiar with OpenSea and interested in collecting specific HACD</li>
-
+            <!--<li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>Suitable for users who prefer to select premium HACD</li>-->
+            <!--<li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>Suitable for users familiar with OpenSea and interested in collecting specific HACD</li>-->
             <li>Hacash.Diamonds DEX: <a href="https://dex.hacash.diamonds/dex"></a><br/>Suitable for users seeking anonymity and security, and who want to collect HACD with a basis in HAC</li>
         </ul>
         <a name="trading_btc"></a>

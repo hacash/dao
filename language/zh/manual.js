@@ -106,8 +106,8 @@ module.exports = {
         <a name="trading_hac"></a>
         <p><b>HAC:</b></p>
         <ul>
-            <li>NonKYC: <a href="https://nonkyc.com/market/HAC_USDT"></a></li> 
             <li>Xeggex: <a href="https://xeggex.com/market/HAC_USDT"></a></li> 
+            <li>NonKYC: <a href="https://nonkyc.com/market/HAC_USDT"></a></li> 
             <li>DEX-Trade: <a href="https://dex-trade.com/spot/trading/HACUSDT"></a></li>
             <li>Vindax: <a href="https://vindax.com/exchange-base.html?symbol=HAC_USDT"></a></li>
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a></li>
@@ -115,14 +115,12 @@ module.exports = {
         <a name="trading_hacd"></a>
         <p><b>HACD:</b></p>
         <ul>
+            <li>Xeggex: <a href="https://xeggex.com/market/HACD_USDT"></a></li> 
+            <li>NonKYC: <a href="https://nonkyc.com/market/HACD_USDT"></a></li> 
             <li>Hacash.Diamonds QuickBuy: <a href="https://www.hacash.diamonds/quickbuy"></a><br/>适合喜欢匿名，需要少量随机HACD的用户</li>
-
             <li>HacashSea: <a href="https://sea.hacash.diamonds"></a><br/>适合喜欢挑选特定HACD的用户</li>
-
-            <li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>适合喜欢挑选精品HACD的用户</li>
-
-            <li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>适合会使用OpenSea，需要收藏具象HACD的用户</li>
-
+            <!--<li>HacashPool: <a href="https://hacpool.com/hacd"></a><br/>适合喜欢挑选精品HACD的用户</li>-->
+            <!--<li>Hacash.Diamonds Opensea: <a href="https://opensea.io/collection/hacashdiamond"></a><br/>适合会使用OpenSea，需要收藏具象HACD的用户</li>-->
             <li>去中心化交易所 <a href="https://dex.hacash.diamonds/dex"></a><br/>适合追求匿名安全，HAC本位收藏HACD的用户</li>
         </ul>
         <a name="trading_btc"></a>
