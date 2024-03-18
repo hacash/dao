@@ -149,15 +149,17 @@ html, body {
         // margin-bottom: 40px;
     }
     .card {
+        border: none;
         * {
             text-shadow: 1px 1px 1px #00000044
         }
         .box {
             border: 2px solid #ffffff66;
             padding: 20px;
-            border-radius: 4px;
+            // border-radius: 4px;
             // box-shadow: 0 0 40px #ffffff55;
-            background-color: #f7af3400;
+            // background-color: #f7af3400;
+            border: none;
             &.red {
                 // background-color: #270303;
             }
@@ -169,8 +171,6 @@ html, body {
             }
         }
         .con {
-
-
         }
     }
     .hd {
@@ -185,11 +185,12 @@ html, body {
         }
     }
     .list {
-        // margin: 20px 0 0 20px;
+        border: none;
     }
     .item {
         position: relative;
         margin-top: 14px;
+        padding: 20px;
         h5 {
             font-weight: normal;
             font-size: 18px;
@@ -205,6 +206,7 @@ html, body {
         }
     }
     .item::after {
+        display: none;
         content: "";
         position: absolute;
         top: 17px;
@@ -240,7 +242,6 @@ html, body {
         }
     }
     .item.active.hot {
-        padding: 10px;
         border-radius: 5px;
         border: 1px solid @colyellow;
         background-color: #f7af3422;
@@ -285,6 +286,10 @@ html, body {
             &.ul u {
                 right: auto;
                 left: 0;
+                &.r {
+                    right: 0;
+                    left: auto;
+                }
             }
         }
     }
