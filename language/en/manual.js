@@ -152,7 +152,13 @@ module.exports = {
             <li>Overall: <a href="https://twitter.com/search?q=Hacash"></a></li>
             <li>HacashDAO: <a href="https://twitter.com/HacashDAO"></a></li>
             <li>HacashNews: <a href="https://twitter.com/HacashNews"></a></li>
+            <li>HacashInitiator: <a href="https://twitter.com/Hacashinitiator"></a></li>
+            <li>HacashMagazine: <a href="https://twitter.com/HacashMagazine"></a></li>
+            <li>HacashInfo: <a href="https://twitter.com/hacashinfo"></a></li>
+            <li>HacashDaily: <a href="https://twitter.com/Hacash_Daily"></a></li>
+            <li>HacashOrg: <a href="https://twitter.com/hacashorg"></a></li>
             <li>HacashCom: <a href="https://twitter.com/HacashCom"></a></li>
+            <li>HACD Art: <a href="https://twitter.com/hacdart"></a></li>
             <li>HacashDiamond: <a href="https://twitter.com/HacashDiamond"></a></li>
             <li>HACPool: <a href="https://twitter.com/HacWowpool"></a></li>
         </ul>
@@ -181,14 +187,21 @@ module.exports = {
         
         `<p>ㄜ is Hacash's currency symbol, and using it in social media names can help garner attention from the Hacash community.</p>
         <p>
+            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://twitter.com/HacashMagazine">@HacashMagazine</a><br/>
+            <a href="https://twitter.com/HacashTR">@HacashTR</a><br/>
+            <a href="https://twitter.com/Hacash_Hac">@Hacash_Hacash</a><br/>
+            <a href="https://twitter.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
+            <a href="https://twitter.com/shujin618">@Villager</a><br/>
+            <a href="https://twitter.com/brnmrz">@Baran</a><br/>
+            <a href="https://twitter.com/roger73005305">@比特进</a><br/>
+            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
             <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
             <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
             <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
-            <a href="https://twitter.com/spec01010">@spec01010</a><br/>
+            <a href="https://twitter.com/spec01010">@BENIKT</a><br/>
             <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
-            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
-            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
             <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
             <a href="https://twitter.com/taowang06">@taowang06</a><br/>

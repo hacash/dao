@@ -151,7 +151,13 @@ module.exports = {
             <li>Overall: <a href="https://twitter.com/search?q=Hacash"></a></li>
             <li>HacashDAO: <a href="https://twitter.com/HacashDAO"></a></li>
             <li>HacashNews: <a href="https://twitter.com/HacashNews"></a></li>
+            <li>HacashInitiator: <a href="https://twitter.com/Hacashinitiator"></a></li>
+            <li>HacashMagazine: <a href="https://twitter.com/HacashMagazine"></a></li>
+            <li>HacashInfo: <a href="https://twitter.com/hacashinfo"></a></li>
+            <li>HacashDaily: <a href="https://twitter.com/Hacash_Daily"></a></li>
+            <li>HacashOrg: <a href="https://twitter.com/hacashorg"></a></li>
             <li>HacashCom: <a href="https://twitter.com/HacashCom"></a></li>
+            <li>HACD Art: <a href="https://twitter.com/hacdart"></a></li>
             <li>HacashDiamond: <a href="https://twitter.com/HacashDiamond"></a></li>
         </ul>
         <p><b>Discord:</b></p>
@@ -178,15 +184,24 @@ module.exports = {
         `<p>Hacash没有创始人和团队，意味着它的发展将完全由社区决定。任何人都可以对Hacash提出优化和改进的建议，如果被正式讨论，则会分配一个 HIP 编码，可以在社区的各个地方提出。从目前来看，交易所和市场在HacashTalk和Telegram提出较多，开发在Discord提出较多。我们会跟进社区引领者的进度，汇聚在HacashDAO的首页。</p>`,
         `<p>ㄜ是Hacash的货币符号，社交媒体名字上ㄜ会更容易获得Hacash社区的关注</p>
         <p>
+            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://twitter.com/HacashTR">@HacashTR</a><br/>
+            <a href="https://twitter.com/Hacash_Hac">@Hacash_Hacash</a><br/>
+            <a href="https://twitter.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
+            <a href="https://twitter.com/shujin618">@Villager</a><br/>
+            <a href="https://twitter.com/brnmrz">@Baran</a><br/>
+            <a href="https://twitter.com/roger73005305">@比特进</a><br/>
+            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
             <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
             <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
             <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
-            <a href="https://twitter.com/spec01010">@spec01010</a><br/>
+            <a href="https://twitter.com/spec01010">@BENIKT</a><br/>
             <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
-            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
-            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
+            <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
+            <a href="https://twitter.com/taowang06">@taowang06</a><br/>
+            <a href="https://twitter.com/shujin618">@shujin618</a><br/>
             <a href="https://twitter.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
             <a href="https://twitter.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
             <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
