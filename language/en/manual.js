@@ -194,6 +194,7 @@ module.exports = {
             <a href="https://twitter.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
             <a href="https://twitter.com/shujin618">@Villager</a><br/>
             <a href="https://twitter.com/brnmrz">@Baran</a><br/>
+            <a href="https://twitter.com/black_bird_LLC">@blackbird Capital</a><br/>
             <a href="https://twitter.com/roger73005305">@比特进</a><br/>
             <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
             <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
