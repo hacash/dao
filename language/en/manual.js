@@ -1,6 +1,6 @@
 module.exports = {
 
-    update: `Last modified: 08/18/2023<br/>Please messages <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
+    update: `Last modified: 08/18/2023<br/>Please messages <a href="https://x.com/HacashDAO">HacashDAO Twitter</a> directly if you have any questions!`,
 
 
     sidenavs: [
@@ -149,18 +149,19 @@ module.exports = {
         `<p>If you find it challenging to locate an official Hacash community, that's normal. Just as Hacash is decentralized in its technology like Bitcoin, it is equally decentralized in its community. This is why establishing HacashDAO is one of our key endeavors – to bring together these scattered entities and collectively discover and follow an effective path for advancing Hacash's development.</p>`,
         `<p><b>Twitter:</b></p>
         <ul>
-            <li>Overall: <a href="https://twitter.com/search?q=Hacash"></a></li>
-            <li>HacashDAO: <a href="https://twitter.com/HacashDAO"></a></li>
-            <li>HacashNews: <a href="https://twitter.com/HacashNews"></a></li>
-            <li>HacashInitiator: <a href="https://twitter.com/Hacashinitiator"></a></li>
-            <li>HacashMagazine: <a href="https://twitter.com/HacashMagazine"></a></li>
-            <li>HacashInfo: <a href="https://twitter.com/hacashinfo"></a></li>
-            <li>HacashDaily: <a href="https://twitter.com/Hacash_Daily"></a></li>
-            <li>HacashOrg: <a href="https://twitter.com/hacashorg"></a></li>
-            <li>HacashCom: <a href="https://twitter.com/HacashCom"></a></li>
-            <li>HACD Art: <a href="https://twitter.com/hacdart"></a></li>
-            <li>HacashDiamond: <a href="https://twitter.com/HacashDiamond"></a></li>
-            <li>HACPool: <a href="https://twitter.com/HacWowpool"></a></li>
+            <li>Overall: <a href="https://x.com/search?q=Hacash"></a></li>
+            <li>HacashDAO: <a href="https://x.com/HacashDAO"></a></li>
+            <li>SoundMoneyHAC: <a href="https://x.com/SoundMoneyHAC"></a></li>
+            <li>HacashNews: <a href="https://x.com/HacashNews"></a></li>
+            <li>HacashInitiator: <a href="https://x.com/Hacashinitiator"></a></li>
+            <li>HacashMagazine: <a href="https://x.com/HacashMagazine"></a></li>
+            <li>HacashInfo: <a href="https://x.com/hacashinfo"></a></li>
+            <li>HacashDaily: <a href="https://x.com/Hacash_Daily"></a></li>
+            <li>HacashOrg: <a href="https://x.com/hacashorg"></a></li>
+            <li>HacashCom: <a href="https://x.com/HacashCom"></a></li>
+            <li>HACD Art: <a href="https://x.com/hacdart"></a></li>
+            <li>HacashDiamond: <a href="https://x.com/HacashDiamond"></a></li>
+            <li>HACPool: <a href="https://x.com/HacWowpool"></a></li>
         </ul>
         <p><b>Discord:</b></p>
         <ul>
@@ -187,36 +188,36 @@ module.exports = {
         
         `<p>ㄜ is Hacash's currency symbol, and using it in social media names can help garner attention from the Hacash community.</p>
         <p>
-            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
-            <a href="https://twitter.com/HacashMagazine">@HacashMagazine</a><br/>
-            <a href="https://twitter.com/HacashTR">@HacashTR</a><br/>
-            <a href="https://twitter.com/Hacash_Hac">@Hacash_Hacash</a><br/>
-            <a href="https://twitter.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
-            <a href="https://twitter.com/shujin618">@Villager</a><br/>
-            <a href="https://twitter.com/brnmrz">@Baran</a><br/>
-            <a href="https://twitter.com/black_bird_LLC">@blackbird Capital</a><br/>
-            <a href="https://twitter.com/roger73005305">@比特进</a><br/>
-            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
-            <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
-            <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
-            <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
-            <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
-            <a href="https://twitter.com/spec01010">@BENIKT</a><br/>
-            <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
-            <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
-            <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
-            <a href="https://twitter.com/taowang06">@taowang06</a><br/>
-            <a href="https://twitter.com/shujin618">@shujin618</a><br/>
-            <a href="https://twitter.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
-            <a href="https://twitter.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
-            <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
+            <a href="https://x.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://x.com/HacashMagazine">@HacashMagazine</a><br/>
+            <a href="https://x.com/HacashTR">@HacashTR</a><br/>
+            <a href="https://x.com/Hacash_Hac">@Hacash_Hacash</a><br/>
+            <a href="https://x.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
+            <a href="https://x.com/shujin618">@Villager</a><br/>
+            <a href="https://x.com/brnmrz">@Baran</a><br/>
+            <a href="https://x.com/black_bird_LLC">@blackbird Capital</a><br/>
+            <a href="https://x.com/roger73005305">@比特进</a><br/>
+            <a href="https://x.com/Hacashi_248">@Hacashi_248</a><br/>
+            <a href="https://x.com/LeonardoHacash">@LeonardoHacash</a><br/>
+            <a href="https://x.com/Jackxxx216">@Jackxxx216</a><br/>
+            <a href="https://x.com/Dr_T_123">@Dr_T_123</a><br/>
+            <a href="https://x.com/HacashWizard">@HacashWizard</a><br/>
+            <a href="https://x.com/spec01010">@BENIKT</a><br/>
+            <a href="https://x.com/andy99feng">@andy99feng</a><br/>
+            <a href="https://x.com/AquilaXBT">@AquilaXBT</a><br/>
+            <a href="https://x.com/SeanShenzx">@SeanShenzx</a><br/>
+            <a href="https://x.com/taowang06">@taowang06</a><br/>
+            <a href="https://x.com/shujin618">@shujin618</a><br/>
+            <a href="https://x.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
+            <a href="https://x.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
+            <a href="https://x.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash's three-coin, three-layer structure involves extensive development and innovation for each coin and layer.</p>
         <p>Hacash Development Documentation: <a href="https://hacash.org/development"></a></p>
         <p>If you wish to join the core Hacash development team, you can currently follow this process: <a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
         <p>Hacash Proposals: <a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
         <p>If you intend to make a HIP proposal, you can initiate a well-discussed proposal within the community.</p>
-        <p>February 2023 statistics for Hacash code contribution geography: <a href="https://twitter.com/HacashDAO/status/1630142159272964096"></a></p>`,
+        <p>February 2023 statistics for Hacash code contribution geography: <a href="https://x.com/HacashDAO/status/1630142159272964096"></a></p>`,
     ],
 
     resource: [

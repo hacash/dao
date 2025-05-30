@@ -1,6 +1,6 @@
 module.exports = {
 
-    update: `最后修改于 08/18/2023<br/>如有任何问题，请直接给 <a href="https://twitter.com/HacashDAO">HacashDAO Twitter</a> 留言！`,
+    update: `最后修改于 08/18/2023<br/>如有任何问题，请直接给 <a href="https://x.com/HacashDAO">HacashDAO Twitter</a> 留言！`,
 
     sidenavs: [
         ["首页"],
@@ -148,17 +148,18 @@ module.exports = {
         `<p>如果你发现找不到一个Hacash的官方社区，这是正常的。因为Hacash不仅在技术上和比特币一样去中心化，在社区上也是。这也是为什么我们成立HacashDAO的其中一个重要原因，聚集这些分散的组织，并一同发现和遵循一个有效推动Hacash发展的方式。</p>`,
         `<p><b>推特:</b></p>
         <ul>
-            <li>Overall: <a href="https://twitter.com/search?q=Hacash"></a></li>
-            <li>HacashDAO: <a href="https://twitter.com/HacashDAO"></a></li>
-            <li>HacashNews: <a href="https://twitter.com/HacashNews"></a></li>
-            <li>HacashInitiator: <a href="https://twitter.com/Hacashinitiator"></a></li>
-            <li>HacashMagazine: <a href="https://twitter.com/HacashMagazine"></a></li>
-            <li>HacashInfo: <a href="https://twitter.com/hacashinfo"></a></li>
-            <li>HacashDaily: <a href="https://twitter.com/Hacash_Daily"></a></li>
-            <li>HacashOrg: <a href="https://twitter.com/hacashorg"></a></li>
-            <li>HacashCom: <a href="https://twitter.com/HacashCom"></a></li>
-            <li>HACD Art: <a href="https://twitter.com/hacdart"></a></li>
-            <li>HacashDiamond: <a href="https://twitter.com/HacashDiamond"></a></li>
+            <li>Overall: <a href="https://x.com/search?q=Hacash"></a></li>
+            <li>HacashDAO: <a href="https://x.com/HacashDAO"></a></li>
+            <li>SoundMoneyHAC: <a href="https://x.com/SoundMoneyHAC"></a></li>
+            <li>HacashNews: <a href="https://x.com/HacashNews"></a></li>
+            <li>HacashInitiator: <a href="https://x.com/Hacashinitiator"></a></li>
+            <li>HacashMagazine: <a href="https://x.com/HacashMagazine"></a></li>
+            <li>HacashInfo: <a href="https://x.com/hacashinfo"></a></li>
+            <li>HacashDaily: <a href="https://x.com/Hacash_Daily"></a></li>
+            <li>HacashOrg: <a href="https://x.com/hacashorg"></a></li>
+            <li>HacashCom: <a href="https://x.com/HacashCom"></a></li>
+            <li>HACD Art: <a href="https://x.com/hacdart"></a></li>
+            <li>HacashDiamond: <a href="https://x.com/HacashDiamond"></a></li>
         </ul>
         <p><b>Discord:</b></p>
         <ul>
@@ -184,35 +185,35 @@ module.exports = {
         `<p>Hacash没有创始人和团队，意味着它的发展将完全由社区决定。任何人都可以对Hacash提出优化和改进的建议，如果被正式讨论，则会分配一个 HIP 编码，可以在社区的各个地方提出。从目前来看，交易所和市场在HacashTalk和Telegram提出较多，开发在Discord提出较多。我们会跟进社区引领者的进度，汇聚在HacashDAO的首页。</p>`,
         `<p>ㄜ是Hacash的货币符号，社交媒体名字上ㄜ会更容易获得Hacash社区的关注</p>
         <p>
-            <a href="https://twitter.com/YouKenTrust">@YouKenTrust</a><br/>
-            <a href="https://twitter.com/HacashTR">@HacashTR</a><br/>
-            <a href="https://twitter.com/Hacash_Hac">@Hacash_Hacash</a><br/>
-            <a href="https://twitter.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
-            <a href="https://twitter.com/shujin618">@Villager</a><br/>
-            <a href="https://twitter.com/brnmrz">@Baran</a><br/>
-            <a href="https://twitter.com/black_bird_LLC">@blackbird Capital</a><br/>
-            <a href="https://twitter.com/roger73005305">@比特进</a><br/>
-            <a href="https://twitter.com/Hacashi_248">@Hacashi_248</a><br/>
-            <a href="https://twitter.com/LeonardoHacash">@LeonardoHacash</a><br/>
-            <a href="https://twitter.com/Jackxxx216">@Jackxxx216</a><br/>
-            <a href="https://twitter.com/Dr_T_123">@Dr_T_123</a><br/>
-            <a href="https://twitter.com/HacashWizard">@HacashWizard</a><br/>
-            <a href="https://twitter.com/spec01010">@BENIKT</a><br/>
-            <a href="https://twitter.com/andy99feng">@andy99feng</a><br/>
-            <a href="https://twitter.com/AquilaXBT">@AquilaXBT</a><br/>
-            <a href="https://twitter.com/SeanShenzx">@SeanShenzx</a><br/>
-            <a href="https://twitter.com/taowang06">@taowang06</a><br/>
-            <a href="https://twitter.com/shujin618">@shujin618</a><br/>
-            <a href="https://twitter.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
-            <a href="https://twitter.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
-            <a href="https://twitter.com/Elle_SSS_">@Elle_SSS_</a><br/>
+            <a href="https://x.com/YouKenTrust">@YouKenTrust</a><br/>
+            <a href="https://x.com/HacashTR">@HacashTR</a><br/>
+            <a href="https://x.com/Hacash_Hac">@Hacash_Hacash</a><br/>
+            <a href="https://x.com/hacoshidakamoto">@HacoshiDakamoto</a><br/>
+            <a href="https://x.com/shujin618">@Villager</a><br/>
+            <a href="https://x.com/brnmrz">@Baran</a><br/>
+            <a href="https://x.com/black_bird_LLC">@blackbird Capital</a><br/>
+            <a href="https://x.com/roger73005305">@比特进</a><br/>
+            <a href="https://x.com/Hacashi_248">@Hacashi_248</a><br/>
+            <a href="https://x.com/LeonardoHacash">@LeonardoHacash</a><br/>
+            <a href="https://x.com/Jackxxx216">@Jackxxx216</a><br/>
+            <a href="https://x.com/Dr_T_123">@Dr_T_123</a><br/>
+            <a href="https://x.com/HacashWizard">@HacashWizard</a><br/>
+            <a href="https://x.com/spec01010">@BENIKT</a><br/>
+            <a href="https://x.com/andy99feng">@andy99feng</a><br/>
+            <a href="https://x.com/AquilaXBT">@AquilaXBT</a><br/>
+            <a href="https://x.com/SeanShenzx">@SeanShenzx</a><br/>
+            <a href="https://x.com/taowang06">@taowang06</a><br/>
+            <a href="https://x.com/shujin618">@shujin618</a><br/>
+            <a href="https://x.com/VincenthhhPeng">@VincenthhhPeng</a><br/>
+            <a href="https://x.com/Phil_HAVvIT">@Phil_HAVvIT</a><br/>
+            <a href="https://x.com/Elle_SSS_">@Elle_SSS_</a><br/>
         </p>`,
         `<p>Hacash的三币三层结构，每一个币和每一个层级都涉及了大量的开发和创新工作。</p>
         <p>Hacash开发文档：<a href="https://hacash.org/development"></a></p>
         <p>如果你想加入Hacash核心开发组，可以按照这个流程：<a href="https://discord.com/channels/757976908653920299/844038285260619797/1080030124965122098"></a></p>
         <p>Hacash提案：<a href="https://github.com/hacash/paper/blob/master/HIP/HIP-table.md "></a></p>
         <p>如果你想进行 HIP 提案，可以在社区进行充分讨论立案。</p>
-        <p>2023年2月Hacash代码贡献地域的统计：<a href="https://twitter.com/HacashDAO/status/1630142159272964096"></a></p>`,
+        <p>2023年2月Hacash代码贡献地域的统计：<a href="https://x.com/HacashDAO/status/1630142159272964096"></a></p>`,
     ],
 
     resource: [
